@@ -32,24 +32,24 @@ I am currently building real-world projects in data cleaning, exploratory analys
 **Tools Used:** Python (pandas, numpy, matplotlib, regex)  
 **Project Type:** Group project (3 members)
 
-- Cleaned and prepared raw shark attack data for structured analysis
-- Performed exploratory data analysis to identify trends and risk patterns
-- I created visualizations to support insight generation
-- I contributed to developing a business proposal for protective clothing solutions based on data findings
-- Participated in presenting results to a non-technical audience
+- Analyzed historical shark attack data to identify trends, risk factors, and patterns related to shark attacks.
+- Performed data cleaning, exploratory analysis, and visualization to support the insights generated
+- I contributed to developing a business proposal for protective clothing solutions against shark attacks, based on data findings
+- I participated in presenting the results of our findings through a structured slide deck to a non-technical audience
 
-🔗 View Repository: []  
-🔗 View Presentation: []
+🔗 View Repository: [https://github.com/Selaseyjr/SharkAttacks]  
+🔗 View Presentation: [https://acesse.one/Sharkattacksbusinessproject]
 
 ---
 
 ## Currently Developing
-- Expanding SQL skills for database querying
+- Expanding my SQL skills for database querying
 - Building additional real-world data projects
-- Strengthening statistical analysis foundations
+- Strengthening my statistical analysis foundations
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [www.linkedin.com/in/selasey-junior-36250425a]c
+- LinkedIn: [www.linkedin.com/in/selasey-junior-36250425a]
+- CV: [https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=drive_link]
 
