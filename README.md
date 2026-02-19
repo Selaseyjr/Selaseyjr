@@ -1,37 +1,55 @@
 # Hi, I'm Selasey Junior,
 
-MA Data and Discourse studies student(TU Darmstadt) and Data Analytics Bootcamp Student at **Ironhack Berlin**  
-Aspiring Data Analyst with keen interest in **Business Intelligence, Marketing Analytics, Healthcare Analytics as well as Operations/Supply chain Analytics**
+Aspiring Data Analyst seeking internship opportunities where I can apply and further develop my data analysis and visualization skills. I enjoy working with data to identify patterns, generate insights, and communicate findings clearly to support decision-making.
+
+I am currently building real-world projects in data cleaning, exploratory analysis, and presenting insights to both technical and non-technical audiences, while strengthening my analytical, technical, and communication skills.
 
 ---
 
-## About Me
-I am a second semester MA Data and Discourse studies student, while completing an intensive Data Analytics bootcamp at Ironhack Berlin, where I'm learning to work with real datasets to extract insights and assist final decision-making. So far, I enjoy deriving meanings from code syntaxes and translating them into everyday language, while learning to turn raw data into clear insights that could tell comprehensible business stories.
+## Technical Skills
+
+**Programming & Analysis**
+- Python
+- pandas
+- numpy
+- Regular Expressions (regex)
+
+**Data Visualization**
+- matplotlib
+
+**Core Skills**
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Trend & Pattern Identification
+- Insight Communication
+- Presentation & Data Storytelling
 
 ---
 
-## 🛠 Technical Skills covered so far
-- **Data Analysis:** SQL, basic Python (pandas, numpy)
----
+## 📌 Featured Project
 
-## 📂 Featured Projects
-None completed yet
+### Shark Attack Data Analysis & Business Proposal  
+**Tools Used:** Python (pandas, numpy, matplotlib, regex)  
+**Project Type:** Group project (3 members)
 
-*(Projects are still being worked on)*
+- Cleaned and prepared raw shark attack data for structured analysis
+- Performed exploratory data analysis to identify trends and risk patterns
+- I created visualizations to support insight generation
+- I contributed to developing a business proposal for protective clothing solutions based on data findings
+- Participated in presenting results to a non-technical audience
 
----
-
-##  Career Interests
-I am currently seeking **Werkstudent, internship or Voluntary opportunities** in:
-- Business Intelligence (BI) Analytics
-- Marketing Analytics
-- Healthcare Analytics
-- Data / Reporting Analytics
-- Risk/ Compliance Analytics
-- Human Resource Data Analytics
+🔗 View Repository: []  
+🔗 View Presentation: []
 
 ---
 
-## 📫 Connect with me on:
-- 💼 LinkedIn: *www.linkedin.com/in/selasey-junior-36250425a*
-- 📄 CV: *https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=sharing*
+## Currently Developing
+- Expanding SQL skills for database querying
+- Building additional real-world data projects
+- Strengthening statistical analysis foundations
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: [www.linkedin.com/in/selasey-junior-36250425a]c
+
