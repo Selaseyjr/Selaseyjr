@@ -51,5 +51,5 @@ I am currently building real-world projects in data cleaning, exploratory analys
 
 ## 📫 Connect With Me
 - LinkedIn: [www.linkedin.com/in/selasey-junior-36250425a]
-- CV: [https://docs.google.com/document/d/1GCW8EELtEB9TVZ_-IeuWu2hI1rS0SVu425lynslekrg/edit?usp=sharing]
+- CV: [https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=drive_link]
 
