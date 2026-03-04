@@ -5,7 +5,6 @@ Aspiring Data Analyst seeking internship opportunities where I can apply and fur
 I am currently building real-world projects in data cleaning, exploratory analysis, and presenting insights to both technical and non-technical audiences, while strengthening my analytical, technical, and communication skills.
 
 ---
-
 ## Technical Skills
 
 **Programming & Analysis**
@@ -26,7 +25,7 @@ I am currently building real-world projects in data cleaning, exploratory analys
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Project 1
 
 ### Shark Attack Data Analysis & Business Proposal  
 **Tools Used:** Python (pandas, numpy, matplotlib, regex)  
@@ -41,14 +40,25 @@ I am currently building real-world projects in data cleaning, exploratory analys
 🔗 View Presentation: [https://acesse.one/Sharkattacksbusinessproject]
 
 ---
+## Project 2
+## Premier League Team Performance Analysis
+This project analyzes English Premier League team performance using key metrics such as Shot Accuracy, Goal Conversion Rate, and Discipline Score to understand factors influencing team rankings at the end of the season.
 
+- My teammate and I Analyzed data from 2023 EPL season using Python(Pandas, Seaborn, NumPy, Matplotlib)
+- I participated in a virtual presentation of the project work
+- We designed a Kanban board for workflow and time management using Trello.
+
+🔗 View Repository: https://github.com/Selaseyjr/projectfootball
+🔗 View Presentation: https://1drv.ms/p/c/00B64655BBE4221D/IQBYJY8ESfvbTK9rDUO0bvHSAWiU4Wd8fOhjQ9-6VWYCjR4
+🔗 View Kanban board:https://trello.com/b/KIBQ65Ds/epl-performance-analytics
+
+---
 ## Currently Developing
 - Expanding my SQL skills for database querying
 - Building additional real-world data projects
 - Strengthening my statistical analysis foundations
 
 ---
-
 ## 📫 Connect With Me
 - LinkedIn: [www.linkedin.com/in/selasey-junior-36250425a]
 - CV: [https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=drive_link]
