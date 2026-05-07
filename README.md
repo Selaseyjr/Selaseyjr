@@ -90,14 +90,8 @@ End-to-end Business Intelligence project analyzing European housing markets usin
 
 ---
 
-# 📫 Connect With Me
+# 📫 Connect With Me 
 
-🔗 LinkedIn: [www.linkedin.com/in/selasey-junior-36250425a)  
-
-📄 CV / Resume: [View CV](https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=drive_link&utm_source=chatgpt.com)
-
----
-## 📫 Connect With Me
 - LinkedIn: [www.linkedin.com/in/selasey-junior-36250425a]
 - CV: [https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=drive_link]
 
