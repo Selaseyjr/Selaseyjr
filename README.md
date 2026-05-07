@@ -1,62 +1,100 @@
-# Hi, I'm Selasey Junior,
+# Hi, I'm Selasey Dick Junior Gbeddy 👋
 
-Aspiring Data Analyst seeking internship opportunities where I can apply and further develop my data analysis and visualization skills. I enjoy working with data to identify patterns, generate insights, and communicate findings clearly to support decision-making.
+Aspiring Data Analyst and Business Intelligence professional with hands-on experience in Python, SQL, and Tableau, currently pursuing a Master’s degree in Data & Discourse Studies at TU Darmstadt, Germany.
 
-I am currently building real-world projects in data cleaning, exploratory analysis, and presenting insights to both technical and non-technical audiences, while strengthening my analytical, technical, and communication skills.
+I specialize in transforming raw data into actionable business insights through data analysis, visualization, forecasting, and dashboard storytelling. My focus is on combining analytical thinking with practical business applications to support data-driven decision-making.
+
+Currently building end-to-end analytics projects involving:
+- Python-based data analysis
+- SQL-driven business intelligence workflows
+- Interactive Tableau dashboards
+- Forecasting and investment analysis
+- KPI development and reporting automation
+
+I am actively seeking opportunities in:
+- Data Analytics
+- Business Intelligence
+- Reporting & Insights
+- Data Visualization
+- Analytics Consulting
 
 ---
-## Technical Skills
 
-**Programming & Analysis**
+# 🧰 Technical Skills
+
+## 📊 Data Analytics & Visualization
+
 - Python
+- SQL (MySQL)
+- Tableau Public
 - pandas
 - numpy
-- Regular Expressions (regex)
-
-**Data Visualization**
 - matplotlib
+- Regular Expressions (regex)
+- Power BI
 
-**Core Skills**
-- Data Cleaning & Preprocessing
+---
+
+## 📈 Business Intelligence & Analytics
+
+- KPI Development
+- Dashboard Design
+- Reporting & Visualization
+- Forecasting & Trend Analysis
 - Exploratory Data Analysis (EDA)
-- Trend & Pattern Identification
-- Insight Communication
-- Presentation & Data Storytelling
+- Data Cleaning & Preprocessing
+- Business Insight Communication
+- Data Storytelling
 
 ---
 
-## 📌 Featured Project 1
+## 🛠️ Workflow & Collaboration
 
-### Shark Attack Data Analysis & Business Proposal  
-**Tools Used:** Python (pandas, numpy, matplotlib, regex)  
-**Project Type:** Group project (3 members)
-
-- Analyzed historical shark attack data to identify trends, risk factors, and patterns related to shark attacks.
-- Performed data cleaning, exploratory analysis, and visualization to support the insights generated
-- I contributed to developing a business proposal for protective clothing solutions against shark attacks, based on data findings
-- I participated in presenting the results of our findings through a structured slide deck to a non-technical audience
-
-🔗 View Repository: [https://github.com/Selaseyjr/SharkAttacks]  
-🔗 View Presentation: [https://acesse.one/Sharkattacksbusinessproject]
+- Git & GitHub
+- Jupyter Notebook
+- Trello / Kanban Workflow Management
+- Presentation & Stakeholder Communication
+- Collaborative Project Development
 
 ---
-## Project 2
-## Premier League Team Performance Analysis
-This project analyzes English Premier League team performance using key metrics such as Shot Accuracy, Goal Conversion Rate, and Discipline Score to understand factors influencing team rankings at the end of the season.
 
-- My teammate and I Analyzed data from 2023 EPL season using Python(Pandas, Seaborn, NumPy, Matplotlib)
-- I participated in a virtual presentation of the project work
-- We designed a Kanban board for workflow and time management using Trello.
+# 🌍 Featured Project
 
-🔗 View Repository: https://github.com/Selaseyjr/projectfootball
-🔗 View Presentation: https://1drv.ms/p/c/00B64655BBE4221D/IQBYJY8ESfvbTK9rDUO0bvHSAWiU4Wd8fOhjQ9-6VWYCjR4
-🔗 View Kanban board:https://trello.com/b/KIBQ65Ds/epl-performance-analytics
+## European Real Estate Investment Intelligence Dashboard (2025 Outlook)
+
+End-to-end Business Intelligence project analyzing European housing markets using Python, SQL, and Tableau.
+
+### Key Highlights
+
+- Built forecasting and investment scoring models using European housing and economic datasets
+- Performed data cleaning, exploratory analysis, and feature engineering in Python
+- Developed SQL-based analytical workflows and KPI queries
+- Designed an interactive Tableau dashboard with investment insights and affordability analysis
+
+### Technologies Used
+
+`Python` • `SQL (MySQL)` • `Tableau` • `pandas` • `numpy` • `matplotlib`
+
+🔗 Tableau Dashboard: *(https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/viz/RealEstateInvestmentAnalysis-EU/InvesmentIntelligence-EuropeanHousingDashboard)*  
+🔗 Repository: *(https://github.com/Selaseyjr/european-real-estate-investment-intelligence)*
 
 ---
-## Currently Developing
-- Expanding my SQL skills for database querying
-- Building additional real-world data projects
-- Strengthening my statistical analysis foundations
+
+# 🚀 Currently Expanding
+
+- Advanced SQL querying and optimization
+- Forecasting and predictive analytics
+- Tableau dashboard interactivity and advanced BI workflows
+- Statistical analysis foundations
+- Real-world business intelligence case studies
+
+---
+
+# 📫 Connect With Me
+
+🔗 LinkedIn: [www.linkedin.com/in/selasey-junior-36250425a)  
+
+📄 CV / Resume: [View CV](https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=drive_link&utm_source=chatgpt.com)
 
 ---
 ## 📫 Connect With Me
