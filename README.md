@@ -1,4 +1,4 @@
-# Hi, I'm Selasey Dick Junior Gbeddy 👋
+# Hi, I'm Selasey Junior Gbeddy 👋
 
 Aspiring Data Analyst and Business Intelligence professional with hands-on experience in Python, SQL, and Tableau, currently pursuing a Master’s degree in Data & Discourse Studies at TU Darmstadt, Germany.
 
