@@ -94,4 +94,5 @@ End-to-end Business Intelligence project analyzing European housing markets usin
 
 - LinkedIn: [www.linkedin.com/in/selasey-junior-36250425a]
 - CV: [https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=drive_link]
+- Tableau Vizz: https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/vizzes
 
