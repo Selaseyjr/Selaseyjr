@@ -75,8 +75,8 @@ End-to-end Business Intelligence project analyzing European housing markets usin
 
 `Python` • `SQL (MySQL)` • `Tableau` • `pandas` • `numpy` • `matplotlib`
 
-🔗 Tableau Dashboard: *(https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/viz/RealEstateInvestmentAnalysis-EU/InvesmentIntelligence-EuropeanHousingDashboard)*  
-🔗 Repository: *(https://github.com/Selaseyjr/european-real-estate-investment-intelligence)*
+🔗 [Tableau Live Dashboard](https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/viz/RealEstateInvestmentAnalysis-EU/InvesmentIntelligence-EuropeanHousingDashboard)
+🔗 [Project Github Repository](https://github.com/Selaseyjr/european-real-estate-investment-intelligence)
 
 ---
 
