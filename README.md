@@ -1,98 +1,129 @@
 # Hi, I'm Selasey Junior Gbeddy 👋
 
-Aspiring Data Analyst and Business Intelligence professional with hands-on experience in Python, SQL, and Tableau, currently pursuing a Master’s degree in Data & Discourse Studies at TU Darmstadt, Germany.
+### Data Analytics | Business Intelligence | Tableau & Python | Germany 🇩🇪
 
-I specialize in transforming raw data into actionable business insights through data analysis, visualization, forecasting, and dashboard storytelling. My focus is on combining analytical thinking with practical business applications to support data-driven decision-making.
+Passionate about transforming raw data into actionable business insights through analytics, forecasting, KPI reporting, and interactive dashboard storytelling.
 
-Currently building end-to-end analytics projects involving:
-- Python-based data analysis
-- SQL-driven business intelligence workflows
-- Interactive Tableau dashboards
-- Forecasting and investment analysis
-- KPI development and reporting automation
-
-I am actively seeking opportunities in:
-- Data Analytics
-- Business Intelligence
-- Reporting & Insights
-- Data Visualization
-- Analytics Consulting
+Currently building end-to-end analytics projects using Python, SQL, Tableau, and Business Intelligence workflows while actively seeking Data Analyst internships and working student opportunities within and outside Germany.
 
 ---
 
-# 🧰 Technical Skills
+## 📫 Connect With Me
 
-## 📊 Data Analytics & Visualization
+<p align="left">
 
-- Python
-- SQL (MySQL)
-- Tableau Public
-- pandas
-- numpy
-- matplotlib
-- Regular Expressions (regex)
-- Power BI
+<a href="https://www.linkedin.com/in/selasey-junior-36250425a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://github.com/Selaseyjr" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 📈 Business Intelligence & Analytics
+<a href="https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/vizzes" target="_blank">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</a>
 
-- KPI Development
-- Dashboard Design
-- Reporting & Visualization
-- Forecasting & Trend Analysis
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- Business Insight Communication
-- Data Storytelling
+<a href="mailto:Selaseygbeddy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 🛠️ Workflow & Collaboration
+# 🛠️ Tech Stack
 
-- Git & GitHub
-- Jupyter Notebook
-- Trello / Kanban Workflow Management
-- Presentation & Stakeholder Communication
-- Collaborative Project Development
+## Languages & Analytics
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+### Libraries & Tools
+Pandas • NumPy • Matplotlib • Tableau Public • MySQL • Jupyter Notebook • VS Code • Git & GitHub • KPI Reporting • Dashboard Design • Data Storytelling
 
 ---
 
-# 🌍 Featured Project
+# 📊 Featured Projects
 
-## European Real Estate Investment Intelligence Dashboard (2025 Outlook)
+## 🏦 Vanguard Assurance UX/UI A/B Testing Analysis
 
-End-to-end Business Intelligence project analyzing European housing markets using Python, SQL, and Tableau.
+An end-to-end UX analytics and A/B testing project evaluating the effectiveness of a redesigned digital onboarding interface.
 
 ### Key Highlights
+- KPI & completion rate analysis
+- Error rate & friction point evaluation
+- Interactive Tableau dashboards
+- Statistical hypothesis testing
+- Funnel & user journey analysis
+- Cross-border collaboration across Germany & Spain
 
-- Built forecasting and investment scoring models using European housing and economic datasets
-- Performed data cleaning, exploratory analysis, and feature engineering in Python
-- Developed SQL-based analytical workflows and KPI queries
-- Designed an interactive Tableau dashboard with investment insights and affordability analysis
-
-### Technologies Used
-
-`Python` • `SQL (MySQL)` • `Tableau` • `pandas` • `numpy` • `matplotlib`
-
-🔗 [Tableau Live Dashboard](https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/viz/RealEstateInvestmentAnalysis-EU/InvesmentIntelligence-EuropeanHousingDashboard)
-🔗 [Project Github Repository](https://github.com/Selaseyjr/european-real-estate-investment-intelligence)
+### Tools Used
+`Python` `SQL` `Tableau` `Pandas` `A/B Testing`
 
 ---
 
-# 🚀 Currently Expanding
+## 🏡 European Real Estate Investment Intelligence
 
-- Advanced SQL querying and optimization
-- Forecasting and predictive analytics
-- Tableau dashboard interactivity and advanced BI workflows
-- Statistical analysis foundations
-- Real-world business intelligence case studies
+A Business Intelligence project analyzing housing affordability and investment opportunities across major European countries using economic and housing indicators.
+
+### Key Highlights
+- Investment scoring models
+- Forecasting & trend analysis
+- Interactive dashboard storytelling
+- SQL analytical workflows
+- Data cleaning & feature engineering
+
+### Tools Used
+`Python` `SQL` `Tableau` `Forecasting` `Pandas`
 
 ---
 
-# 📫 Connect With Me 
+# 📈 Currently Learning
 
-- [LinkedIn](https://www.linkedin.com/in/selasey-junior-36250425a/?skipRedirect=true)
-- [My CV](https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=drive_link)
-- [My Tableau Vizz](https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/vizzes)
+- Advanced SQL Optimization
+- Statistical Analysis
+- Tableau Advanced Interactivity
+- Business Intelligence Reporting
+- Predictive Analytics
+
+---
+
+# 🎯 Career Focus
+
+Currently seeking:
+
+✅ Data Analyst Internships  
+✅ Working Student Roles  
+✅ Business Intelligence Opportunities  
+✅ Analytics & Reporting Positions
+
+---
+
+<p align="center">
+
+### ⚡ Turning Data Into Decisions Through Analytics & Storytelling
+
+</p>
 
