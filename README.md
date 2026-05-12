@@ -96,6 +96,12 @@ A Business Intelligence project analyzing housing affordability and investment o
 Actively seeking Data Analyst internships and Working Student opportunities where I can contribute to real-world business analytics projects while continuing to grow my expertise.
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Selaseyjr&show_icons=true&theme=default)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Selaseyjr&layout=compact)
+
+---
 <p align="center">
 
 ### ⚡ Turning Data Into Decisions Through Analytics & Storytelling
