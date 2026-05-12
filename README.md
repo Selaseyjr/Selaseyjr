@@ -32,7 +32,7 @@ Currently building end-to-end analytics projects using Python, SQL, Tableau, and
 Pandas • NumPy • Matplotlib • Tableau Public • MySQL • Jupyter Notebook • VS Code • Git & GitHub • KPI Reporting • Dashboard Design • Data Storytelling • Excel •PowerBI
 
 ---
-# 📊 Featured Projects
+# Featured Projects
 
 ## 🏦 Vanguard Assurance UX/UI A/B Testing Analysis
 An end-to-end UX analytics and A/B testing project evaluating the effectiveness of a redesigned digital onboarding interface.
@@ -67,7 +67,7 @@ A Business Intelligence project analyzing housing affordability and investment o
 🔗 [Project Github Repository](https://github.com/Selaseyjr/european-real-estate-investment-intelligence)
 
 ---
-## 📈 Currently Learning
+## Currently Learning
 - AI & Machine Learning (Regression & Categorization)
 - Advanced SQL Optimization
 - Statistical Analysis
@@ -87,11 +87,14 @@ A Business Intelligence project analyzing housing affordability and investment o
   <img src="https://img.shields.io/badge/Tableau-orange?logo=tableau&logoColor=white"/>
 </a>
 
-<a href="mailto:Selaseygbeddy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"/>
+<a href="mailto:selaseygbeddy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Gmail-red?logo=gmail&logoColor=white"/>
 </a>
+```
+
 
 </p>
+
 Actively seeking Data Analyst internships and Working Student opportunities where I can contribute to real-world business analytics projects while continuing to grow my expertise.
 
 ---
