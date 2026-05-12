@@ -67,7 +67,7 @@ A Business Intelligence project analyzing housing affordability and investment o
 🔗 [Project Github Repository](https://github.com/Selaseyjr/european-real-estate-investment-intelligence)
 
 ---
-# 📈 Currently Learning
+## 📈 Currently Learning
 - AI & Machine Learning (Regression & Categorization)
 - Advanced SQL Optimization
 - Statistical Analysis
