@@ -68,26 +68,14 @@ A Business Intelligence project analyzing housing affordability and investment o
 
 ### Tools Used
 `Python` `SQL` `Tableau` `Forecasting` `Pandas`
+
 ---
 # 📈 Currently Learning
+- AI & Machine Learning 
 - Advanced SQL Optimization
 - Statistical Analysis
-- Tableau Advanced Interactivity
-- Business Intelligence Reporting
-- Predictive Analytics
-
----
-# 🎯 Career Focus
-Currently seeking:
-
-✅ Data Analyst Internships  
-✅ Working Student Roles  
-✅ Business Intelligence Opportunities  
-✅ Analytics & Reporting Positions
-
 ---
 ## 📫 Connect With Me
-
 <p align="left">
 
 <a href="https://www.linkedin.com/in/selasey-junior-36250425a/" target="_blank">
@@ -107,6 +95,8 @@ Currently seeking:
 </a>
 
 </p>
+Actively seeking Data Analyst internships and Working Student opportunities where I can contribute to real-world business analytics projects while continuing to grow my expertise in Python, SQL, Tableau, and Business Intelligence.
+
 ---
 <p align="center">
 
