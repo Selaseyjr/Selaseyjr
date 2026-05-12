@@ -7,7 +7,7 @@ Currently building end-to-end analytics projects using Python, SQL, Tableau, and
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 ## Languages & Analytics
 
 <p align="left">
