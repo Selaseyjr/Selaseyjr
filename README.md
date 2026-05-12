@@ -88,10 +88,8 @@ A Business Intelligence project analyzing housing affordability and investment o
 </a>
 
 <a href="mailto:selaseygbeddy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Gmail-red?logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"/>
 </a>
-```
-
 
 </p>
 
