@@ -11,7 +11,7 @@ Currently building end-to-end analytics projects using Python, SQL, Tableau, and
 ## Languages & Analytics
 
 <p align="left">
-
+ 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
@@ -73,6 +73,7 @@ A Business Intelligence project analyzing housing affordability and investment o
 - Statistical Analysis
 ---
 ## 📫 Connect With Me
+
 <p align="left">
 
 <a href="https://www.linkedin.com/in/selasey-junior-36250425a/" target="_blank">
