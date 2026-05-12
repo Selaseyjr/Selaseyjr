@@ -1,6 +1,6 @@
 # Hi, I'm Selasey Junior Gbeddy 👋
 
-### Data Analytics | Business Intelligence | Tableau & Python | Germany 🇩🇪
+### Data Analytics | Business Intelligence | Germany 🇩🇪
 
 Passionate about transforming raw data into actionable business insights through analytics, forecasting, KPI reporting, and interactive dashboard storytelling.
 
@@ -8,32 +8,7 @@ Currently building end-to-end analytics projects using Python, SQL, Tableau, and
 
 ---
 
-## 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/selasey-junior-36250425a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Selaseyjr" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/vizzes" target="_blank">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-</a>
-
-<a href="mailto:Selaseygbeddy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 # 🛠️ Tech Stack
-
 ## Languages & Analytics
 
 <p align="left">
@@ -64,11 +39,9 @@ Currently building end-to-end analytics projects using Python, SQL, Tableau, and
 Pandas • NumPy • Matplotlib • Tableau Public • MySQL • Jupyter Notebook • VS Code • Git & GitHub • KPI Reporting • Dashboard Design • Data Storytelling
 
 ---
-
 # 📊 Featured Projects
 
 ## 🏦 Vanguard Assurance UX/UI A/B Testing Analysis
-
 An end-to-end UX analytics and A/B testing project evaluating the effectiveness of a redesigned digital onboarding interface.
 
 ### Key Highlights
@@ -83,9 +56,7 @@ An end-to-end UX analytics and A/B testing project evaluating the effectiveness 
 `Python` `SQL` `Tableau` `Pandas` `A/B Testing`
 
 ---
-
 ## 🏡 European Real Estate Investment Intelligence
-
 A Business Intelligence project analyzing housing affordability and investment opportunities across major European countries using economic and housing indicators.
 
 ### Key Highlights
@@ -97,11 +68,8 @@ A Business Intelligence project analyzing housing affordability and investment o
 
 ### Tools Used
 `Python` `SQL` `Tableau` `Forecasting` `Pandas`
-
 ---
-
 # 📈 Currently Learning
-
 - Advanced SQL Optimization
 - Statistical Analysis
 - Tableau Advanced Interactivity
@@ -109,9 +77,7 @@ A Business Intelligence project analyzing housing affordability and investment o
 - Predictive Analytics
 
 ---
-
 # 🎯 Career Focus
-
 Currently seeking:
 
 ✅ Data Analyst Internships  
@@ -120,7 +86,28 @@ Currently seeking:
 ✅ Analytics & Reporting Positions
 
 ---
+## 📫 Connect With Me
 
+<p align="left">
+
+<a href="https://www.linkedin.com/in/selasey-junior-36250425a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Selaseyjr" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/vizzes" target="_blank">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</a>
+
+<a href="mailto:Selaseygbeddy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+---
 <p align="center">
 
 ### ⚡ Turning Data Into Decisions Through Analytics & Storytelling
