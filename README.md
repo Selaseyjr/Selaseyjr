@@ -1,6 +1,6 @@
 # Hi, I'm Selasey Junior Gbeddy 👋
 
-### Data Analytics | Business Intelligence | Germany 🇩🇪
+### Data Analytics |  Logistics and Supply Chain Operations | Germany 🇩🇪
 
 Passionate about transforming raw data into actionable business insights through analytics, forecasting, KPI reporting, and interactive dashboard storytelling.
 Currently building end-to-end analytics projects using Python, SQL, Tableau, and Business Intelligence workflows while actively seeking Data Analyst internships and working student opportunities within and outside Germany.
