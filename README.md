@@ -1,9 +1,12 @@
 # Hi, I'm Selasey Junior Gbeddy 👋
 
-### Data Analytics |  Logistics and Supply Chain Operations | Germany 🇩🇪
+### Data Analytics | Logistics and Supply Chain Operational Optimization | Germany 🇩🇪
 
-Passionate about transforming raw data into actionable business insights through analytics, forecasting, KPI reporting, and interactive dashboard storytelling.
-Currently building end-to-end analytics projects using Python, SQL, Tableau, and Business Intelligence workflows while actively seeking Data Analyst internships and working student opportunities within and outside Germany.
+I am a Data and Discourse Studies student at Technical University of Darmstadt with a strong interest in data analytics, logistics intelligence, and operational optimization.
+
+My work focuses on transforming raw data into actionable insights through Python, SQL, Tableau, dashboard development, KPI analysis, and predictive analytics projects.
+
+Currently exploring machine learning applications in logistics and supply chain systems through an Amazon delivery delay prediction project.
 
 ---
 
