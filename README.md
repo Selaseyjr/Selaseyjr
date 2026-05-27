@@ -2,11 +2,7 @@
 
 ### Logistics, Global Trade and Supply Chain Enthusiast | Combining Data Analytics with Opeartional Intelligence | Germany 🇩🇪
 
-I am a Data and Discourse Studies student at Technical University of Darmstadt with a strong interest in data analytics, logistics intelligence, and operational optimization.
-
-My work focuses on transforming raw data into actionable insights through Python, SQL, Tableau, dashboard development, KPI analysis, and predictive analytics projects.
-
-Currently exploring machine learning applications in logistics and supply chain systems through an Amazon delivery delay prediction project.
+Data Analytics student with a strong interest in global trade, supply chain management, and modern logistics systems. Skilled in Python, SQL, data visualization, forecasting, and KPI reporting through academic and project-based experience. Passionate about operational intelligence, logistics optimization, and the growing role of analytics and technology in transforming supply chain operations. Currently building practical and analytical expertise with a long-term goal of contributing to innovative and efficient supply chain and logistics systems particular within emerging economies and Africa.
 
 ---
 
