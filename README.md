@@ -58,11 +58,11 @@ Operational and pricing-related variables such as discounts, stock levels, and p
 Demonstrated how class imbalance affects predictive performance in real-world logistics datasets
 Achieved ~71% classification accuracy while critically evaluating model limitations and tradeoffs
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Python • Pandas • NumPy • Scikit-learn • Matplotlib • Jupyter Notebook • Git/GitHub
 
-🔗 [View Project](https://github.com/Selaseyjr/Amazon-Delivery-Delay-Prediction-System-ML)
+🔗 [Github Repository Link](https://github.com/Selaseyjr/Amazon-Delivery-Delay-Prediction-System-ML)
 
 ---
 ## 🏦 Vanguard Assurance UX/UI A/B Testing Analysis
