@@ -35,6 +35,36 @@ Pandas • NumPy • Matplotlib • Tableau Public • MySQL • Jupyter Noteboo
 ---
 # Featured Projects
 
+## 🚚 Delivery Delay Prediction Using Machine Learning | KNN & Random Forest
+
+Developed a machine learning classification project focused on predicting e-commerce delivery delays using a large-scale Amazon transactional dataset (~1M rows). Built an end-to-end ML workflow including data cleaning, feature engineering, preprocessing, model training, hyperparameter tuning, and business insight generation.
+
+### Project Highlights
+  - Processed and analyzed 20,000+ sampled logistics/e-commerce records
+  - Built predictive classification models using:
+  - K-Nearest Neighbors (KNN)
+  - Random Forest Classifier
+- Applied:
+  - Feature engineering
+  - Label encoding
+  - MinMax scaling
+  - Train/test split
+  - Hyperparameter tuning
+  - Model evaluation techniques
+  - Conducted feature importance analysis to identify operational factors influencing delivery outcomes
+
+### 📊 Key Insights
+Operational and pricing-related variables such as discounts, stock levels, and pricing showed the strongest influence on delivery outcomes
+Demonstrated how class imbalance affects predictive performance in real-world logistics datasets
+Achieved ~71% classification accuracy while critically evaluating model limitations and tradeoffs
+
+🛠️ Tech Stack
+
+Python • Pandas • NumPy • Scikit-learn • Matplotlib • Jupyter Notebook • Git/GitHub
+
+🔗 [View Project](https://github.com/Selaseyjr/Amazon-Delivery-Delay-Prediction-System-ML)
+
+---
 ## 🏦 Vanguard Assurance UX/UI A/B Testing Analysis
 An end-to-end UX analytics and A/B testing project evaluating the effectiveness of a redesigned digital onboarding interface.
 
