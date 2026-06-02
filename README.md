@@ -4,7 +4,7 @@
 
 Data Analytics student with a strong interest in global trade, supply chain management, and modern logistics systems. Skilled in Python, SQL, data visualization, forecasting, and KPI reporting through academic and project-based experience. 
 
-Passionate about operational intelligence, logistics optimization, and the growing role of analytics and technology in transforming supply chain operations. Currently building practical and analytical expertise with a long-term goal of contributing to innovative and efficient supply chain and logistics systems particular within emerging economies and Africa.
+Passionate about operational intelligence, logistics optimization, and the growing role of analytics and technology in transforming supply chain operations. Currently building practical and analytical expertise with a long-term goal of contributing to innovative and efficient supply chain and logistics systems particularly within emerging economies and Africa.
 
 ---
 
