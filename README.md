@@ -129,7 +129,7 @@ A Business Intelligence project analyzing housing affordability and investment o
 
 Actively seeking Data Analyst internships and Working Student opportunities where I can contribute to real-world business analytics projects while continuing to grow my expertise.
 
-[My CV Link](https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=drive_link)
+[My CV Link](https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=sharing)
 
 ---
 <p align="center">
