@@ -1,6 +1,6 @@
 # Hi, I'm Selasey Junior Gbeddy 👋
 
-### Logistics, Global Trade and Supply Chain Enthusiast | Combining Data Analytics with Operational Intelligence | Germany 🇩🇪
+### Logistics and Supply Chain Systems | Optimising Company Operations through Data Science & Analytics | ML and Cloud | Germany 🇩🇪
 
 Data Analytics student with a strong interest in global trade, supply chain management, and modern logistics systems. Skilled in Python, SQL, data visualization, forecasting, and KPI reporting through academic and project-based experience. 
 
