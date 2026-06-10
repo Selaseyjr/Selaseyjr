@@ -49,6 +49,7 @@ Python • Streamlit & Cloud • OpenAI APIs • Git/GitHub
 
 🔗 [Github Repository Link](https://github.com/Selaseyjr/LogiLLM-Logistics-Planning-Assistant)
 
+---
 ## 🛍️ E-commerce Supply Chain & Operations Optimization System
 
 Combining KPI analysis, demand forecasting, and machine learning techniques to improve inventory management and optimise the supply chain system.
@@ -59,6 +60,7 @@ Python • Statistics • Machine Learning • Git/GitHub
 
 🔗 [Github Repository Link](https://github.com/Selaseyjr/ecommerce-supply-chain-analytics)
 
+---
 ## 🚦Delivery Delay Prediction | KNN & Random Forest
 
 Developed a machine learning classification project focused on predicting e-commerce delivery delays using a large-scale Amazon transactional dataset (~1M rows). Built an end-to-end ML workflow including data cleaning, feature engineering, preprocessing, model training, hyperparameter tuning, and business insight generation.
