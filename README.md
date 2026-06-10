@@ -6,11 +6,11 @@ I combine data science, business analytics and company case-based research to un
 
 I have gained practical experience in applying technical approaches to operational decision-making, through projects involving inventory optimization, demand forecasting, logistics performance analysis, delay predictions among others.
  
-I am the creator of LogiLLM, a demo logistics planning assistant designed to support supply chain analysis and planning workflows, and the author of "From Ancient Trade Routes to Intelligent Supply Chains".
+I created LogiLLM as a demo logistics planning assistant with intention to support supply chain analysis and plan workflows. I also authored "From Ancient Trade Routes to Intelligent Supply Chains"; an article resultant from my personal curiosity into the history of supply chains and its present evolution.
  
-I understand logistics systems through in-depth study, I analyse them curiously, and communicate insights clearly.
+I understand logistics systems through in-depth case-studies, I analyse situations curiously, and learn to communicate insights clearly.
 
-Still extensively studying global trade systems and enhancing my expertise, with a long-term goal of adapting to and creating innovative infrastructure to support modern supply chains operations.
+Still extensively studying global trade systems and enhancing my expertise, with a long-term goal of adapting to and contributing innovative infrastructure to support modern supply chain operations.
 
 ---
 
