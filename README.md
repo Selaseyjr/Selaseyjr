@@ -1,6 +1,6 @@
 # Hi, I'm Selasey Junior Gbeddy 👋
 
-### Global Trade, Logistics & Supply Chain Analytics | Data Science, ML & Cloud | Germany 🇩🇪
+### Global Trade, Logistics & Supply Chain Analytics | Data Science, ML & Cloud | 🇩🇪 Germany
 
 I combine data science, business analytics and company case-study research to understand and solve supply chain operational challenges. 
 
@@ -127,7 +127,7 @@ A Business project analyzing housing affordability and investment opportunities 
 ---
 <p align="center">
 
-### ⚡ Turning Data Into Decisions Through Analytics & Storytelling
+### ⚡ Studying Logistics Systems and Exploring Innovative Ways to Move the World
 
 </p>
 
