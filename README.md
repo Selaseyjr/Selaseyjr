@@ -44,7 +44,7 @@ Currently focused on deepening my understanding of global trade while improving 
 
 ### Tech Stack
 
-Python • Streamlit & Cloud • OpenAI APIs • Git/GitHub
+`Python` `Streamlit & Cloud` `OpenAI APIs` `Git/GitHub`
 
 🔗 [Github Repository Link](https://github.com/Selaseyjr/LogiLLM-Logistics-Planning-Assistant)
 
@@ -55,7 +55,7 @@ Combining KPI analysis, demand forecasting, and machine learning techniques to i
 
 ### Tech Stack
 
-Python • Statistics • Machine Learning • Git/GitHub
+`Python` `Statistics` `Machine Learning` `Git/GitHub`
 
 🔗 [Github Repository Link](https://github.com/Selaseyjr/ecommerce-supply-chain-analytics)
 
@@ -66,7 +66,7 @@ Developed a machine learning classification project focused on predicting e-comm
 
 ### Tech Stack
 
-Python • Scikit-learn • Machine Learning • Git/GitHub
+`Python` `Scikit-learn` `Machine Learning` `Git/GitHub`
 
 🔗 [Github Repository Link](https://github.com/Selaseyjr/Amazon-Delivery-Delay-Prediction-System-ML)
 
