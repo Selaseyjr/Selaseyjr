@@ -1,16 +1,16 @@
 # Hi, I'm Selasey Junior Gbeddy 👋
 
-### Managing Company Operations through Data Science & Analytics | ML and Cloud | Germany 🇩🇪
+### Managing Company Operations through Data Science & Analytics | ML & Cloud | Germany 🇩🇪
 
-I combine data science, business analytics and company case-based research to understand and solve supply chain challenges. 
+I combine data science, business analytics and company case-study research to understand and solve supply chain challenges. 
 
 I have gained practical experience in applying technical approaches to operational decision-making, through projects involving inventory optimization, demand forecasting, logistics performance analysis, delay predictions among others.
- 
-I created LogiLLM as a demo logistics planning assistant with intention to support supply chain analysis and plan workflows. I also authored "From Ancient Trade Routes to Intelligent Supply Chains"; an article resultant from my personal curiosity into the history of supply chains and its present evolution.
- 
-I understand logistics systems through in-depth case-studies, I analyse situations curiously, and learn to communicate insights clearly.
 
-Still extensively studying global trade systems and enhancing my expertise, with a long-term goal of adapting to and contributing innovative infrastructure to support modern supply chain operations.
+I created LogiLLM, a logistics planning assistant designed to support supply chain analysis and planning workflows. I also authored _From Ancient Trade Routes to Intelligent Supply Chains_, an article born from my curiosity about how logistics systems evolved from ancient trade networks into the complex systems we have today.
+
+I really enjoy understanding how logistics systems work, studying real business situations, and learning how data can support better operational decisions.
+
+Currently focused on deepening my understanding of global trade while improving my technical stack to enable me adapt and contribute more efficiently to modern supply chain operations.
 
 ---
 
