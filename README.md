@@ -40,8 +40,7 @@ Currently focused on deepening my understanding of global trade while improving 
 
 ## 🚚 LogiLLM Control Tower
 
-•Built & deployed an AI-powered logistics decision-support platform using Python, Streamlit, and OpenAI APIs. 
-•The application assists logistics planners with transport mode selection, shipment risk assessment, cost-speed tradeoff analysis, and sustainability insights through an interactive web interface.
+•Built & deployed an AI-powered logistics decision-support platform using Python, Streamlit, and OpenAI APIs. The application assists logistics planners with transport mode selection, shipment risk assessment, cost-speed tradeoff analysis, and sustainability insights through an interactive web interface.
 
 ### Tech Stack
 
