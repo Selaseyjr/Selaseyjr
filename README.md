@@ -100,7 +100,7 @@ A Business project analyzing housing affordability and investment opportunities 
 
 ---
 ---
-## 📫 To Get in Touch
+## 📫 Kindly Get in Touch
 
 <p align="left">
 
