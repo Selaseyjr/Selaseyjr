@@ -1,10 +1,10 @@
 # Hi, I'm Selasey Junior Gbeddy 👋
 
-### Managing Company Operations through Data Science & Analytics | ML & Cloud | Germany 🇩🇪
+### Global Trade, Logistics & Supply Chain Analytics | Data Science, ML & Cloud | Germany 🇩🇪
 
-I combine data science, business analytics and company case-study research to understand and solve supply chain challenges. 
+I combine data science, business analytics and company case-study research to understand and solve supply chain operational challenges. 
 
-I have gained practical experience in applying technical approaches to operational decision-making, through projects involving inventory optimization, demand forecasting, logistics performance analysis, delay predictions among others.
+Through projects involving inventory optimization, demand forecasting, logistics performance analysis and delivery delay prediction, I have gained practical experience applying analytical methods to real-world decision-making.
 
 I created LogiLLM, a logistics planning assistant designed to support supply chain analysis and planning workflows. I also authored _From Ancient Trade Routes to Intelligent Supply Chains_, an article born from my curiosity about how logistics systems evolved from ancient trade networks into the complex systems we have today.
 
