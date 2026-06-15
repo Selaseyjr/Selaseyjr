@@ -86,7 +86,7 @@ An end-to-end UX analytics and A/B testing project evaluating the effectiveness 
 
 ---
 ## 📈 Real Estate Investment Forecasting
-A Business project analyzing housing affordability and investment opportunities across major European countries using economic and housing indicators.
+A Business project analyzing housing affordability and identifying investment opportunities across major European countries using economic and housing indicators.
 
 ### Key Highlights
 - Investment scoring models
