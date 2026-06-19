@@ -10,7 +10,7 @@ I created LogiLLM, a logistics planning assistant designed to support supply cha
 
 I really enjoy understanding how logistics systems work, studying real business situations, and learning how data can support better operational decisions.
 
-Currently focused on deepening my understanding of global trade while improving my technical stack to enable me adapt and contribute more efficiently to modern supply chain operations.
+Currently focused on deepening my understanding of global trade while improving my technical stack to enable me support business analytics and operational decision-making.
 
 ---
 
