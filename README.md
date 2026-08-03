@@ -8,7 +8,7 @@ Through projects involving inventory optimization, demand forecasting, logistics
 
 I created LogiLLM, a logistics planning assistant designed to support supply chain analysis and planning workflows. I also authored _From Ancient Trade Routes to Intelligent Supply Chains_, an article born from my curiosity about how logistics systems evolved from ancient trade networks into the complex systems we have today.
 
-I really enjoy understanding how logistics systems work, studying real business situations, and learning how data can support better operational decisions.
+My journey focuses on combining hands-on operational experience in fulfilment environments, formal training in data analytics, and a curiosity for building practical solutions to real-world business challenges.
 
 Currently focused on deepening my understanding of global trade while improving my technical stack to enable me support business analytics and operational decision-making.
 
