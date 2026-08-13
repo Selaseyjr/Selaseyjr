@@ -1,16 +1,17 @@
 # Hi, I'm Selasey Junior Gbeddy 👋
 
-### Global Trade, Logistics Operations & Supply Chain Analytics | Data Science, ML & Cloud | 🇩🇪 Germany
+### Global Trade, Logistics Operations & Supply Chain Analytics | Operations and Business Strategy | 🇩🇪 Germany
 
-I combine data science, business analytics and company case-study research to understand and solve supply chain operational challenges. 
+My journey began with Business Administration, followed by a growing interest in Data Analytics and how data can help us understand problems, uncover patterns, and make better decisions. Along the way, I discovered a deeper interest in Supply Chain & Logistics, where I figured I could merge data, operations, and technology together.
 
-Through projects involving inventory optimization, demand forecasting, logistics performance analysis and delivery delay prediction, I have gained practical experience applying analytical methods to real-world decision-making.
+I enjoy turning that curiosity into things I can build and explore, including **LogiLLM**, an AI-powered logistics planning assistant, and research on intelligent supply chains.
 
-I created LogiLLM, a logistics planning assistant designed to support supply chain analysis and planning workflows. I also authored _From Ancient Trade Routes to Intelligent Supply Chains_, an article born from my curiosity about how logistics systems evolved from ancient trade networks into the complex systems we have today.
+I’m particularly interested in understanding how things work, where they are heading, and what could be built next.
 
-My journey focuses on combining hands-on operational experience in fulfilment environments, formal training in data analytics, and a curiosity for building practical solutions to real-world business challenges.
+I strongly believe that **Building begins long before you lay the first brick.** And this is a principle I apply in my everyday life.
 
-Currently focused on deepening my understanding of global trade while improving my technical stack to enable me support business analytics and operational decision-making.
+And so, I’m also exploring **Adensa**, a procurement and supply initiative focused on building more reliable ,digital supply networks to improve business efficiency in Ghana and, eventually, across Africa.
+
 
 ---
 
