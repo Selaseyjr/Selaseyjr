@@ -2,21 +2,73 @@
 
 ### Global Trade, Logistics Operations & Supply Chain Analytics | Operations and Business Strategy | 🇩🇪 Germany
 
-My journey began with Business Administration, followed by a growing interest in Data Analytics and how data can help us understand problems, uncover patterns, and make better decisions. Along the way, I discovered a deeper interest in Supply Chain & Logistics, where I figured I could merge data, operations, and technology together.
+# Hi, I'm Selasey 👋
 
-I enjoy turning that curiosity into things I can build and explore, including **LogiLLM**, an AI-powered logistics planning assistant, and research on intelligent supply chains.
+### Supply Chain & Logistics | Data Analytics | Understanding Processes & Building Smarter Systems
 
-I’m particularly interested in understanding how things work, where they are heading, and what could be built next.
+My background is in Business Administration, and I began my data analytics journey to better understand how data can be used to investigate problems and support better decisions.
 
-I strongly believe that **Building begins long before you lay the first brick.** And this is a principle I apply in my everyday life.
+During that journey, I became increasingly interested in Supply Chain & Logistics, particularly in how physical operations, information, people and technology come together to move goods and create value.
 
-And so, I’m also exploring **Adensa**, a procurement and supply initiative focused on building more reliable ,digital supply networks to improve business efficiency in Ghana and, eventually, across Africa.
+I am currently developing my understanding of the field through theoretical study and operational experience, while exploring how my analytical background can be applied to real supply-chain and logistics problems.
 
+I am especially interested in:
+
+- Supply Chain & Logistics
+- Logistics Operations & Planning
+- Procurement & Sourcing
+- Data Analytics for Operations
+- Process Improvement
+- Digital Supply Chains
+- Global Trade & Logistics
+
+My current focus is not simply on applying technology to logistics, but on first understanding the problem, the process and the system — and then determining where data or technology can genuinely create value.
 
 ---
 
-# Tech Stack
-## Languages & Analytics
+## 🔎 What I'm Exploring
+
+I am interested in questions such as:
+
+- Where do inefficiencies occur within supply-chain processes?
+- What information is missing when operational decisions are made?
+- How can data help organisations understand their processes better?
+- Where can technology simplify or improve physical operations?
+- How can better coordination improve cost, reliability and customer satisfaction?
+
+I am a couple months already in this journey, and I see continuous learning and practical exposure as essential to developing meaningful solutions.
+
+---
+
+## 🧪 Earlier Learning Projects
+
+My GitHub also contains projects from my data analytics training, including work involving:
+
+- Python
+- SQL
+- Excel
+- Statistics
+- Machine Learning
+- Data Visualisation
+- Business Analytics
+
+These projects reflect my development as I learned different analytical tools and began exploring how they could be applied to business and operational contexts.
+
+As I continue developing my understanding of supply chains, I am working toward projects that begin with real operational problems and use data or technology only where they add meaningful value.
+
+---
+
+## 📚 Research & Writing
+
+I also use research and writing to explore ideas around supply chains, logistics, technology and the systems that connect them.
+
+→ [View my research and publications](https://github.com/Selaseyjr/Selasey-Gbeddy-Publications)
+
+---
+
+## 🛠️ Tools I've Been Learning
+
+**Analytics & Programming**
 
 <p align="left">
  
@@ -36,72 +88,28 @@ And so, I’m also exploring **Adensa**, a procurement and supply initiative foc
 
 </p>
 
----
-# Featured Projects
 
-## 🚚 LogiLLM Control Tower
+`Python` `SQL` `Excel` `Pandas` `Scikit-learn`
 
-•Built & deployed an AI-powered logistics decision-support platform using Python, Streamlit, and OpenAI APIs. The application assists logistics planners with transport mode selection, shipment risk assessment, cost-speed tradeoff analysis, and sustainability insights through an interactive web interface.
+**Visualisation & Applications**
 
-### Tech Stack
+`Tableau` `Streamlit`
 
-`Python` `Streamlit & Cloud` `OpenAI APIs` `Git/GitHub`
+**Other**
 
-🔗 [Github Repository Link](https://github.com/Selaseyjr/LogiLLM-Logistics-Planning-Assistant)
+`Git` `GitHub`
 
 ---
-## 🛍️ E-commerce Supply Chain & Operations Optimization System
 
-Combining KPI analysis, demand forecasting, and machine learning techniques to improve inventory management and optimise the supply chain system.
+## 🌍 Looking Ahead
 
-### Tech Stack
+I am interested in opportunities where I can continue learning, gain practical exposure and contribute analytical thinking to supply-chain, logistics and operations problems.
 
-`Python` `Statistics` `Machine Learning` `Git/GitHub`
-
-🔗 [Github Repository Link](https://github.com/Selaseyjr/ecommerce-supply-chain-analytics)
+> **Understanding the system comes before improving it.**
+---
 
 ---
-## 🚦Delivery Delay Prediction | KNN & Random Forest
-
-Developed a machine learning classification project focused on predicting e-commerce delivery delays using a large-scale Amazon transactional dataset (~1M rows). Built an end-to-end ML workflow including data cleaning, feature engineering, preprocessing, model training, hyperparameter tuning, and business insight generation.
-
-### Tech Stack
-
-`Python` `Scikit-learn` `Machine Learning` `Git/GitHub`
-
-🔗 [Github Repository Link](https://github.com/Selaseyjr/Amazon-Delivery-Delay-Prediction-System-ML)
-
----
-## 📲 UX/UI A/B Testing Analytics
-An end-to-end UX analytics and A/B testing project evaluating the effectiveness of a redesigned digital onboarding interface.
-
-### Key Highlights
-- KPI & completion rate analysis
-- Statistical hypothesis testing
-- Funnel & user journey analysis
-
-### Tech Stack
-`Python` `SQL` `Tableau` `A/B Testing`
- [Tableau Live Dashboard](https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/viz/Vanguard_Assurance_UX_UI_Test_Dasboard/Dashboard1)
-🔗 [Project Github Repository](https://github.com/Selaseyjr/Vanguard-Assurance-UX-UI-AB-Testing)
-
----
-## 📈 Real Estate Investment Forecasting
-A Business project analyzing housing affordability and identifying investment opportunities across major European countries using economic and housing indicators.
-
-### Key Highlights
-- Investment scoring models
-- Forecasting & trend analysis
-- Interactive dashboard storytelling
-
-### Tools Used
-`Python` `SQL` `Tableau` `Forecasting` `Pandas`
-🔗 [Tableau Live Dashboard](https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/viz/RealEstateInvestmentAnalysis-EU/InvesmentIntelligence-EuropeanHousingDashboard)
-🔗 [Project Github Repository](https://github.com/Selaseyjr/european-real-estate-investment-intelligence)
-
----
----
-## 📫 Kindly Get in Touch
+## 📫 To Get in Touch
 
 <p align="left">
 
@@ -127,8 +135,6 @@ A Business project analyzing housing affordability and identifying investment op
 
 ---
 <p align="center">
-
-### ⚡ Studying Logistics Systems and Exploring Innovative Ways to Move the World
 
 </p>
 
