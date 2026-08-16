@@ -1,10 +1,6 @@
-# Hi, I'm Selasey Junior Gbeddy 👋
-
-### Global Trade, Logistics Operations & Supply Chain Analytics | Operations and Business Strategy | 🇩🇪 Germany
-
 # Hi, I'm Selasey 👋
 
-### Supply Chain & Logistics | Data Analytics | Understanding Processes & Building Smarter Systems
+### Supply Chain & Logistics | Data Analytics | Understanding Processes & Building Smarter Systems | 🇩🇪 Germany
 
 My background is in Business Administration, and I began my data analytics journey to better understand how data can be used to investigate problems and support better decisions.
 
