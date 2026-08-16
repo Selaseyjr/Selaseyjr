@@ -81,7 +81,15 @@ I also use research and writing to explore ideas around supply chains, logistics
 
 **Visualisation & Applications**
 
-`Tableau` `Streamlit` `Power BI`
+<p align="left">
+ 
+<img src="https://img.shields.io/badge/Tableau-3776AB?logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Streamlit-217346?logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power-BI-4479A1?logo=mysql&logoColor=white"/>
+
+</p>
 
 **Other**
 <p align="left">
