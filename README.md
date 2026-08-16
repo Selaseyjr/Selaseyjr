@@ -18,7 +18,7 @@ I am especially interested in:
 - Digital Supply Chains
 - Global Trade & Logistics
 
-My current focus is not simply on applying technology to logistics, but on first understanding the problem, the process and the system — and then determining where data or technology can genuinely create value.
+My current focus is not simply on applying technology to logistics, but on first understanding the problem, the process and the system, and then determining where data or technology can genuinely create value.
 
 ---
 
@@ -32,7 +32,7 @@ I am interested in questions such as:
 - Where can technology simplify or improve physical operations?
 - How can better coordination improve cost, reliability and customer satisfaction?
 
-I am a couple months already in this journey, and I see continuous learning and practical exposure as essential to developing meaningful solutions.
+I am a couple months already into this journey, and I see continuous learning and practical exposure as essential to developing myself and thereby meaningful solutions.
 
 ---
 
