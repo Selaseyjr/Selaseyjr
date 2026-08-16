@@ -2,9 +2,9 @@
 
 ### Supply Chain & Logistics | Data Analytics | Understanding Processes & Building Smarter Systems | 🇩🇪 Germany
 
-My background is in Business Administration, and I began my data analytics journey to better understand how data can be used to investigate problems and support better decisions.
+My background is in Business Administration, I recently completed a 6-month data analytics programme to better understand how data can be used to investigate problems and support better decisions.
 
-During that journey, I became increasingly interested in Supply Chain & Logistics, particularly in how physical operations, information, people and technology come together to move goods and create value.
+During my data analytics journey, I became increasingly interested in Supply Chain & Logistics, particularly in how physical operations, information, people and technology come together to move goods and create value.
 
 I am currently developing my understanding of the field through theoretical study and operational experience, while exploring how my analytical background can be applied to real supply-chain and logistics problems.
 
