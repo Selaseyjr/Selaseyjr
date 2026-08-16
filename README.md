@@ -119,10 +119,6 @@ I am interested in opportunities where I can continue learning, gain practical e
   <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
 </a>
 
-<a href="https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/vizzes" target="_blank">
-  <img src="https://img.shields.io/badge/Tableau-orange?logo=tableau&logoColor=white"/>
-</a>
-
 <a href="mailto:selaseygbeddy@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"/>
 </a>
