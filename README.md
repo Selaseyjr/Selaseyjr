@@ -1,6 +1,6 @@
 # Hi, I'm Selasey 👋
 
-### Supply Chain & Logistics | Data Analytics | Understanding Processes & Building Smarter Systems | [🇩🇪] Germany
+### Supply Chain & Logistics | Data Analytics | Understanding Processes & Building Smarter Systems | 🇩🇪 Germany
 
 My background is in Business Administration, I recently completed a 6-month data analytics programme to better understand how data can be used to investigate problems and support better decisions.
 
