@@ -2,7 +2,7 @@
 
 ### Supply Chain & Logistics | Data Analytics | Understanding Processes & Building Smarter Systems
 
-My background is in Business Administration, I recently completed a 6-month data analytics programme to better understand how data can be used to investigate problems and support better decisions.
+My background is in Business Administration. In July,2026 I completed a 6-month data analytics programme to better understand how data can be used to investigate problems and support better decisions.
 
 During my data analytics journey, I became increasingly interested in Supply Chain & Logistics, particularly in how physical operations, information, people and technology come together to move goods and create value.
 
