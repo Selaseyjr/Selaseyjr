@@ -70,31 +70,26 @@ I also use research and writing to explore ideas around supply chains, logistics
  
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit-learn-217346?logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-3776AB?logo=python&logoColor=white"/>
+</p>
+
+**Visualisation & Applications**
+
+`Tableau` `Streamlit` `Power BI`
+
+**Other**
+<p align="left">
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
 
 </p>
-
-
-`Python` `SQL` `Excel` `Pandas` `Scikit-learn`
-
-**Visualisation & Applications**
-
-`Tableau` `Streamlit`
-
-**Other**
-
-`Git` `GitHub`
-
 ---
 
 ## 🌍 Looking Ahead
@@ -104,7 +99,6 @@ I am interested in opportunities where I can continue learning, gain practical e
 > **Understanding the system comes before improving it.**
 ---
 
----
 ## 📫 To Get in Touch
 
 <p align="left">
