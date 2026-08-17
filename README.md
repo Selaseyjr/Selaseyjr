@@ -105,6 +105,7 @@ I also use research and writing to explore ideas around supply chains, logistics
 I am interested in opportunities where I can continue learning, gain practical exposure and contribute analytical thinking to supply-chain, logistics and operations problems.
 
 > **Understanding the system comes before improving it.**
+
 ---
 
 ## 📫 To Get in Touch
