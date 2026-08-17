@@ -98,6 +98,7 @@ I also use research and writing to explore ideas around supply chains, logistics
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
 
 </p>
+
 ---
 
 ## 🌍 Looking Ahead
