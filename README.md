@@ -1,38 +1,23 @@
 # Hi, I'm Selasey 👋
 
-### Supply Chain & Logistics | Data Analytics | Understanding Processes & Building Smarter Systems
+# Demand & Supply Planning | Business & Commercial Analytics
 
-My background is in Business Administration. In July, 2026 I completed a 6-month data analytics programme to better understand how data can be used to investigate problems and support better decisions.
+My background is in Business Administration, complemented by Data Analytics training completed in Germany, 2026.
 
-During my data analytics journey, I became increasingly interested in Supply Chain & Logistics, particularly in how physical operations, information, people and technology come together to move goods and create value.
+I’m developing my focus around **Demand & Supply Planning, Business Analytics and Commercial Decision-Making**, with a particular interest in how demand signals, inventory, procurement and operations connect to business performance.
 
-I am currently developing my understanding of the field through theoretical study and operational experience, while exploring how my analytical background can be applied to real supply-chain and logistics problems.
+My operational experience has given me firsthand exposure to how plans translate into physical execution. I’m now building the analytical and planning skills to understand what drives demand, how supply responds, and where better decisions can create value.
 
-I am especially interested in:
+### 🔎 What I'm Exploring
 
-- Supply Chain & Logistics
-- Logistics Operations & Planning
-- Procurement & Sourcing
-- Data Analytics for Operations
-- Process Improvement
-- Digital Supply Chains
-- Global Trade & Logistics
+* Demand & Supply Planning
+* Forecasting & Inventory Planning
+* S&OP
+* Procurement & Supply Analytics
+* Commercial & Business Analytics
+* Operations & Process Improvement
 
-My current focus is not simply on applying technology to logistics, but on first understanding a problem, the process and the system, and then determining where data or technology can genuinely create value.
-
----
-
-## 🔎 What I'm Exploring
-
-I am interested in questions such as:
-
-- Where do inefficiencies occur within supply-chain processes?
-- What information is missing when operational decisions are made?
-- How can data help organisations understand their processes better?
-- Where can technology simplify or improve physical operations?
-- How can better coordination improve cost, reliability and customer satisfaction?
-
-I am a couple months already into this journey, and I see continuous learning and practical exposure as essential to developing myself and thereby meaningful solutions.
+I approach problems by understanding the **business, the process and the data** first, then using analysis to identify better decisions and practical solutions.
 
 ---
 
