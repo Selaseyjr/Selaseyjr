@@ -2,13 +2,11 @@
 
 ### &#x20;Digital Supply Systems | Supply Chain Planning & Analytics | Workflow Automation & AI
 
-I’m interested in the intersection of **supply chain planning, digital systems, workflow automation and AI**.
-
 My background combines **Business Administration, Data Analytics and hands-on fulfilment operations at Amazon**. Working with data and machine learning first led me to supply-chain problems; working inside fulfilment operations then gave me a practical perspective on how planning decisions translate into physical execution.
 
-I’m now exploring how technology can improve the way supply-chain work is planned, executed and supported, particularly through **ERP systems, workflow automation, AI applications and agentic workflows**.
+I explore how technology can improve the way supply-chain work is planned, executed and supported, particularly through **ERP systems, workflow automation, AI applications and agentic workflows**.
 
-## 🚀 What I'm Building Toward
+## 🚀 What I'm Building
 
 I’m developing prototypes and experiments around **digital supply systems** that connect:
 
@@ -66,20 +64,18 @@ My current focus is on **building digital workflows and intelligent supply-chai
 
 * Process mapping
 * API integration
-* Automated data workflows
-* Connecting business processes with digital tools
+* Connecting business process with digital tools
 
 ### AI & Agentic Systems
 
-* LLM applications
-* Tool-using AI agents
-* Agentic workflows
+* AI agents
+* Agentic workflow
 * Human-in-the-loop automation
 
 ### Supply Chain Technology
 
-* ERP / SAP concepts
-* Forecasting and planning systems
+* ERP / SAP
+* Forecasting and planning
 
 ---
 
@@ -97,7 +93,7 @@ My current focus is on **building digital workflows and intelligent supply-chai
 
 `Forecasting` `Machine Learning` `Statistics` `Data Analysis`
 
-**Currently Developing**
+**Currently Building**
 
 `Workflow Automation` `APIs` `AI Agents` `LLM Applications` `ERP / SAP`
 
@@ -111,11 +107,9 @@ I also use research and writing to explore ideas around **supply chains, logisti
 
 ---
 
-## 🌱 Where I'm Heading
+## 🌱 My Career Focus
 
-I’m building toward a career in **digital supply chain planning**, with a focus on how **ERP systems, workflow automation and AI** can improve planning processes and operational decision-making.
-
-> **Understand the system. Improve the workflow. Build what comes next.**
+I’m building a career in **digital supply chain planning**, with a focus on how **ERP systems, workflow automation and AI** can improve planning processes and operational decision-making.
 
 ---
 
