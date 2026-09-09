@@ -6,19 +6,28 @@ My background combines **Business Administration, Data Analytics and hands-on fu
 
 I explore how technology can improve the way supply-chain work is planned, executed and supported, particularly through **ERP systems, workflow automation, AI applications and agentic workflows**.
 
-## 🚀 What I'm Building
+## 🚀 What I Do
 
-I’m developing prototypes and experiments around **digital supply systems** that connect:
-
-**Planning → Data → Workflows → Automation → AI → Decision Support**
+I'm developing practical prototypes that connect **business problems with technology solutions**.
 
 Areas I’m currently exploring:
 
-* Supply Chain Planning & Analytics
-* Workflow Automation
-* Agentic AI for operational workflows
-* ERP / SAP-enabled planning processes
-* Forecasting & Decision Support
+### Workflow Automation
+
+* Process mapping
+* API integration
+* Connecting business process with digital tools
+
+### AI & Agentic Systems
+
+* AI agents
+* Agentic workflow
+* Human-in-the-loop automation
+
+### Supply Chain Technology
+
+* ERP / SAP
+* Forecasting and planning
 
 My approach is simple: **understand the business problem and workflow first, then use technology where it can create meaningful improvement.**
 
@@ -56,29 +65,6 @@ A supply-chain analytics project combining KPI analysis, demand forecasting and 
 
 ---
 
-### 🤖 Currently Building
-
-My current focus is on **building digital workflows and intelligent supply-chain applications**, practical prototypes that sit between **business problems and technology solutions**.
-
-### Workflow Automation
-
-* Process mapping
-* API integration
-* Connecting business process with digital tools
-
-### AI & Agentic Systems
-
-* AI agents
-* Agentic workflow
-* Human-in-the-loop automation
-
-### Supply Chain Technology
-
-* ERP / SAP
-* Forecasting and planning
-
----
-
 ## 🛠️ Technical Foundation
 
 **Programming & Data**
@@ -99,17 +85,9 @@ My current focus is on **building digital workflows and intelligent supply-chai
 
 ---
 
-## 📚 Research & Writing
-
-I also use research and writing to explore ideas around **supply chains, logistics, technology and intelligent systems**.
-
-🔗 [View my research and publications](#)
-
----
-
 ## 🌱 My Career Focus
 
-I’m building a career in **digital supply chain planning**, with a focus on how **ERP systems, workflow automation and AI** can improve planning processes and operational decision-making.
+I’m building a career in **digital supply chain planning solutions**.
 
 ---
 
