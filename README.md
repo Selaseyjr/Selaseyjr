@@ -87,7 +87,7 @@ A supply-chain analytics project combining KPI analysis, demand forecasting and 
 
 ## 🌱 My Career Focus
 
-I’m building a career in **digital supply chain planning solutions**.
+I’m building a career in **digital supply chain transformation**.
 
 ---
 
