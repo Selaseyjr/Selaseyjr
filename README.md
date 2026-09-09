@@ -2,7 +2,7 @@
 
 ### &#x20;Digital Supply Systems | Supply Chain Planning & Analytics | Workflow Automation & AI
 
-My background combines **Business Administration, Data Analytics and hands-on fulfilment operations at Amazon**. Working with data and machine learning first led me to supply-chain problems; working inside fulfilment operations then gave me a practical perspective on how planning decisions translate into physical execution.
+My background combines **Business Administration, Data Analytics and hands-on fulfilment operations at Amazon**. Working with data and machine learning first led me to supply-chain problems; working inside fulfilment operations then gave me a practical perspective on how planning systems influence physical execution.
 
 I explore how technology can improve the way supply-chain work is planned, executed and supported, particularly through **ERP systems, workflow automation, AI applications and agentic workflows**.
 
