@@ -1,96 +1,121 @@
-# Hi, I'm Selasey 👋
+# Hi, I'm Selasey Junior 👋
 
-# Demand & Supply Planning | Business & Commercial Analytics
+### &#x20;Digital Supply Systems | Supply Chain Planning & Analytics | Workflow Automation & AI
 
-My background is in Business Administration, complemented by Data Analytics training completed in Germany, 2026.
+I’m interested in the intersection of **supply chain planning, digital systems, workflow automation and AI**.
 
-I’m developing my focus around **Demand & Supply Planning, Business Analytics and Commercial Decision-Making**, with a particular interest in how demand signals, inventory, procurement and operations connect to business performance.
+My background combines **Business Administration, Data Analytics and hands-on fulfilment operations at Amazon**. Working with data and machine learning first led me to supply-chain problems; working inside fulfilment operations then gave me a practical perspective on how planning decisions translate into physical execution.
 
-My operational experience has given me firsthand exposure to how plans translate into physical execution. I’m now building the analytical and planning skills to understand what drives demand, how supply responds, and where better decisions can create value.
+I’m now exploring how technology can improve the way supply-chain work is planned, executed and supported, particularly through **ERP systems, workflow automation, AI applications and agentic workflows**.
 
-### 🔎 What I'm Exploring
+## 🚀 What I'm Building Toward
 
-* Demand & Supply Planning
-* Forecasting & Inventory Planning
-* S&OP
-* Procurement & Supply Analytics
-* Commercial & Business Analytics
-* Operations & Process Improvement
+I’m developing prototypes and experiments around **digital supply systems** that connect:
 
-I approach problems by understanding the **business, the process and the data** first, then using analysis to identify better decisions and practical solutions.
+**Planning → Data → Workflows → Automation → AI → Decision Support**
+
+Areas I’m currently exploring:
+
+* Supply Chain Planning & Analytics
+* Workflow Automation
+* Agentic AI for operational workflows
+* ERP / SAP-enabled planning processes
+* Forecasting & Decision Support
+
+My approach is simple: **understand the business problem and workflow first, then use technology where it can create meaningful improvement.**
 
 ---
 
-## 🧪 Earlier Learning Projects
+## 🧪 Featured Digital Supply Chain Projects
 
-My GitHub also contains projects from my data analytics training, including work involving:
+### 🚚 LogiLLM Control Tower
 
-- Python
-- SQL
-- Excel
-- Statistics
-- Machine Learning
-- Data Visualisation
-- Business Analytics
+**AI-powered logistics decision-support prototype**
 
-These projects reflect my development as I learned different analytical tools and began exploring how they could be applied to business and operational contexts.
+Built and deployed an application exploring how AI can support logistics and supply-chain decision-making.
 
-As I continue developing my understanding of supply chains, I am working toward projects that begin with real operational problems and use data or technology only where they add meaningful value.
+The prototype includes:
+
+* Transport-mode selection
+* Shipment-risk assessment
+* Cost–speed trade-off analysis
+* Sustainability considerations
+* Interactive decision support
+
+**Tech:** `Python` `Streamlit` `OpenAI APIs` `Git/GitHub`
+
+🔗 [View Project](#)
+
+---
+
+### 📦 E-commerce Supply Chain & Operations Optimization
+
+A supply-chain analytics project combining KPI analysis, demand forecasting and machine-learning techniques to explore inventory and operational improvement.
+
+**Tech:** `Python` `Pandas` `Statistics` `Machine Learning`
+
+🔗 [View Project](#)
+
+---
+
+### 🤖 Currently Building
+
+My current focus is on **building digital workflows and intelligent supply-chain applications**, practical prototypes that sit between **business problems and technology solutions**.
+
+### Workflow Automation
+
+* Process mapping
+* API integration
+* Automated data workflows
+* Connecting business processes with digital tools
+
+### AI & Agentic Systems
+
+* LLM applications
+* Tool-using AI agents
+* Agentic workflows
+* Human-in-the-loop automation
+
+### Supply Chain Technology
+
+* ERP / SAP concepts
+* Forecasting and planning systems
+
+---
+
+## 🛠️ Technical Foundation
+
+**Programming & Data**
+
+`Python` `SQL` `Pandas` `Scikit-learn`
+
+**Applications**
+
+`Streamlit` `OpenAI APIs` `Git` `GitHub`
+
+**Analytics**
+
+`Forecasting` `Machine Learning` `Statistics` `Data Analysis`
+
+**Currently Developing**
+
+`Workflow Automation` `APIs` `AI Agents` `LLM Applications` `ERP / SAP`
 
 ---
 
 ## 📚 Research & Writing
 
-I also use research and writing to explore ideas around supply chains, logistics, technology and the systems that connect them.
+I also use research and writing to explore ideas around **supply chains, logistics, technology and intelligent systems**.
 
-→ [View my research and publications](https://github.com/Selaseyjr/Selasey-Gbeddy-Publications)
-
----
-
-## 🛠️ Tools I've Been Learning
-
-**Analytics & Programming**
-
-<p align="left">
- 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Scikit-learn-217346?logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-3776AB?logo=python&logoColor=white"/>
-</p>
-
-**Visualisation & Applications**
-
-<p align="left">
- 
-<img src="https://img.shields.io/badge/Tableau-3776AB?logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Streamlit-217346?logo=microsoft-excel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power-BI-4479A1?logo=mysql&logoColor=white"/>
-
-</p>
-
-**Other**
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-
-</p>
+🔗 [View my research and publications](#)
 
 ---
 
-## 🌍 Looking Ahead
+## 🌱 Where I'm Heading
 
-I am interested in opportunities where I can continue learning, gain practical exposure and contribute analytical thinking to supply-chain, logistics and operations problems.
+I’m building toward a career in **digital supply chain planning**, with a focus on how **ERP systems, workflow automation and AI** can improve planning processes and operational decision-making.
 
-> **Understanding the system comes before improving it.**
+> **Understand the system. Improve the workflow. Build what comes next.**
 
 ---
 
