@@ -61,7 +61,7 @@ A supply-chain analytics project combining KPI analysis, demand forecasting and 
 
 **Tech:** `Python` `Pandas` `Statistics` `Machine Learning`
 
-🔗 [View Project](#)
+🔗 [View Project](https://github.com/Selaseyjr/ecommerce-supply-chain-analytics)
 
 ---
 
