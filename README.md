@@ -51,7 +51,7 @@ The prototype includes:
 
 **Tech:** `Python` `Streamlit` `OpenAI APIs` `Git/GitHub`
 
-🔗 [View Project](https://logillm-logistics-planning-assistant.streamlit.app/)
+🔗 [View Project](https://logillm-logistics-planning-prototype.streamlit.app/)
 
 ---
 
