@@ -1,118 +1,171 @@
-# Hi, I'm Selasey Junior 👋
+<div align="center">
 
-### &#x20;Digital Supply Systems | Supply Chain Planning & Analytics | Workflow Automation & AI
+# Selasey Jr. Gbeddy
 
-My background combines **Business Administration, Data Analytics and hands-on fulfilment operations at Amazon**. Working with data and machine learning first led me to supply-chain problems; working inside fulfilment operations then gave me a practical perspective on how planning systems influence physical execution.
+### Supply Chain Digitalisation · Software Engineering · Automation & AI
 
-I explore how technology can improve the way supply-chain work is planned, executed and supported, particularly through **ERP systems, workflow automation, AI applications and agentic workflows**.
+**Building digital systems that connect business processes, data, software and automation.**
 
-## 🚀 What I Do
-
-I'm developing practical prototypes that connect **business problems with technology solutions**.
-
-Areas I’m currently exploring:
-
-### Workflow Automation
-
-* Process mapping
-* API integration
-* Connecting business process with digital tools
-
-### AI & Agentic Systems
-
-* AI agents
-* Agentic workflow
-* Human-in-the-loop automation
-
-### Supply Chain Technology
-
-* ERP / SAP
-* Forecasting and planning
-
-My approach is simple: **understand the business problem and workflow first, then use technology where it can create meaningful improvement.**
-
----
-
-## 🧪 Featured Digital Supply Chain Projects
-
-### 🚚 LogiLLM Control Tower
-
-**AI-powered logistics decision-support prototype**
-
-Built and deployed an application exploring how AI can support logistics and supply-chain decision-making.
-
-The prototype includes:
-
-* Transport-mode selection
-* Shipment-risk assessment
-* Cost–speed trade-off analysis
-* Sustainability considerations
-* Interactive decision support
-
-**Tech:** `Python` `Streamlit` `OpenAI APIs` `Git/GitHub`
-
-🔗 [View Project](https://logillm-logistics-planning-prototype.streamlit.app/)
-
----
-
-### 📦 E-commerce Supply Chain & Operations Optimization
-
-A supply-chain analytics project combining KPI analysis, demand forecasting and machine-learning techniques to explore inventory and operational improvement.
-
-**Tech:** `Python` `Pandas` `Statistics` `Machine Learning`
-
-🔗 [View Project](https://github.com/Selaseyjr/ecommerce-supply-chain-analytics)
-
----
-
-## 🛠️ Technical Foundation
-
-**Programming & Data**
-
-`Python` `SQL` `Pandas` `Scikit-learn`
-
-**Applications**
-
-`Streamlit` `OpenAI APIs` `Git` `GitHub`
-
-**Analytics**
-
-`Forecasting` `Machine Learning` `Statistics` `Data Analysis`
-
-**Currently Building**
-
-`Workflow Automation` `APIs` `AI Agents` `LLM Applications` `ERP / SAP`
-
----
-
-## 🌱 My Career Focus
-
-I’m building a career in **digital supply chain transformation**.
-
----
-
-## 📫 To Get in Touch
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/selasey-junior-36250425a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Selaseyjr" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:selaseygbeddy@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white"/>
-</a>
-
+<p>
+  <a href="https://github.com/Selaseyjr">
+    <img src="https://img.shields.io/badge/GitHub-Selaseyjr-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/selasey-junior-36250425a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
-[View My CV](https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=sharing)
+</div>
 
 ---
-<p align="center">
 
+## Profile
+
+Software engineer with a background in **Business Administration** and operational experience at **Amazon**.
+
+I build and explore digital systems that connect **business processes, operational data, software and automation** — with a particular interest in supply-chain technology, enterprise systems and intelligent workflows.
+
+My work sits at the intersection of:
+
+<table>
+<tr>
+<td align="center"><strong>Business</strong><br>Processes & Operations</td>
+<td align="center">→</td>
+<td align="center"><strong>Technology</strong><br>Software & Data</td>
+<td align="center">→</td>
+<td align="center"><strong>Systems</strong><br>Integration & Automation</td>
+<td align="center">→</td>
+<td align="center"><strong>Intelligence</strong><br>AI & Decision Support</td>
+</tr>
+</table>
+
+---
+
+## Technical Focus
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
 </p>
+
+**Core:** Software Engineering · Full-Stack Development · Systems Integration · Data Engineering
+
+**Building toward:** Cloud · Workflow Automation · AI Applications · Agentic Systems · Enterprise APIs
+
+---
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Adensa Digital
+
+**Supply Chain Exception & Recovery Platform**
+
+An end-to-end digital system exploring exception detection, decision support and human-in-the-loop recovery workflows.
+
+**Stack**
+
+`Python` `SQLite` `Streamlit` `Git`
+
+<br>
+
+<a href="https://adensa-digital-systems.streamlit.app/">Live Application →</a> · <a href="https://github.com/Selaseyjr/adensa-digital">Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### LogiLLM Control Tower
+
+**Logistics Decision-Support Interface**
+
+A frontend prototype exploring how AI-assisted decision support can be presented through an operational control-tower interface.
+
+**Stack**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+<br>
+
+<a href="https://logillm-logistics-planning.vercel.app/">Live Application →</a> · <a href="https://github.com/Selaseyjr/logillm-logistics-planning-prototype">Repository →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## What I'm Exploring
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**Software Systems**
+
+Full-stack applications
+APIs & integration
+Data-driven systems
+
+</td>
+<td width="33%" align="center">
+
+**Automation**
+
+Business workflows
+Process orchestration
+Human-in-the-loop systems
+
+</td>
+<td width="33%" align="center">
+
+**Intelligent Systems**
+
+LLM applications
+AI agents
+Decision support
+
+</td>
+</tr>
+</table>
+
+My domain focus is **digital supply chain transformation**, while the underlying technologies and engineering principles I develop are applicable across business and enterprise environments.
+
+---
+
+## Background
+
+**Business Administration**
+University of Ghana · BSc
+
+**Data & Technical Development**
+Ironhack · Data Analytics Bootcamp
+
+**Operational Experience**
+Amazon · Fulfilment Operations
+
+**Current Academic Path**
+TU Darmstadt · Data & Discourse Studies
+
+---
+
+<div align="center">
+
+### Build systems. Improve processes. Apply intelligence.
+
+<a href="https://www.linkedin.com/in/selasey-junior-36250425a/">LinkedIn</a>
+  ·   <a href="mailto:selaseygbeddy@gmail.com">Email</a>
+  ·   <a href="https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=sharing">CV</a>
+
+</div>
+
 
