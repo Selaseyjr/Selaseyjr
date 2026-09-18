@@ -21,9 +21,7 @@
 
 ## Profile
 
-Software engineer with a background in **Business Administration** and operational experience at **Amazon**.
-
-I build and explore digital systems that connect **business processes, operational data, software and automation**, with a particular interest in supply-chain technology, enterprise systems and intelligent workflows.
+I build and engineer digital systems that connect **business processes, operational data, software and automation**, with a particular interest in supply-chain technology, enterprise systems and intelligent workflows.
 
 My work sits at the intersection of:
 
