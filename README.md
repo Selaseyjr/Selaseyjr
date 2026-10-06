@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Selaseyjr">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1200&color=3178C6&center=true&vCenter=true&width=760&lines=Software+Engineer;Full-Stack+%26+Frontend+Development;Building+Digital+Products+%26+Systems;JavaScript+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+APIs" alt="Typing introduction">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1200&color=3178C6&center=true&vCenter=true&width=820&lines=Digital+Product+Builder;Frontend+%26+Full-Stack+Development;Product+Design+%C2%B7+Automation+%C2%B7+AI;Turning+Complex+Problems+Into+Usable+Systems" alt="Typing introduction">
 </a>
 
 <br>
@@ -23,9 +23,9 @@
 
 <br>
 
-### Software Engineer · Full-Stack Development · Frontend & UI
+### Digital Product Builder · Frontend · Full-Stack · AI & Automation
 
-**I build software products that turn complex processes into clear, usable and connected digital systems.**
+**I turn business and user problems into clear, usable and connected digital products.**
 
 </div>
 
@@ -33,44 +33,43 @@
 
 ## About
 
-I am a **software engineer focused on building digital products and integrated software systems**, with a strong frontend foundation and growing depth across backend engineering, APIs, databases and cloud infrastructure.
+I build **digital products and software systems** from problem definition through design, development and deployment.
 
-My work combines:
+My work sits at the intersection of:
 
-* **Frontend engineering** — responsive interfaces, interaction design and product-focused UI
-* **Full-stack development** — connecting frontend applications with backend services and databases
-* **Software architecture** — structured application layers, domain logic and maintainable systems
-* **APIs & integration** — connecting applications, services and business processes
-* **Data & backend engineering** — Python, FastAPI, SQL and PostgreSQL
-* **Cloud & deployment** — production-oriented applications and cloud infrastructure
-* **AI-enabled software** — decision support, workflow automation and human-in-the-loop systems
+* **Product thinking** — understanding users, workflows and business needs
+* **Frontend development** — responsive interfaces, interaction and accessibility
+* **Full-stack development** — connecting applications, APIs, backend services and data
+* **Data & automation** — turning operational information into useful workflows
+* **AI-enabled products** — decision support, intelligent workflows and human-in-the-loop systems
 
-My domain experience in **business operations and supply-chain processes** gives me a practical environment in which to apply these engineering skills, but my interests extend beyond a single industry.
+My background in **business, data analytics and operations** gives me a practical perspective on how technology can improve the way people work.
+
+I particularly enjoy taking something complex and turning it into a product that feels **clear, purposeful and easy to use**.
 
 ---
 
-## The Way I Build
+## How I Build
 
 ```mermaid
 flowchart LR
-    A[User & Business Need] --> B[Product & UI]
-    B --> C[Frontend Application]
-    C --> D[APIs & Services]
-    D --> E[Domain Logic]
-    E --> F[Data & Infrastructure]
-    F --> G[Automation & AI]
-    G --> H[Human Decision]
-    H --> B
+    A[Problem] --> B[Understand]
+    B --> C[Design]
+    C --> D[Build]
+    D --> E[Connect]
+    E --> F[Automate]
+    F --> G[Deploy]
+    G --> H[Improve]
+    H --> C
 ```
 
-I am particularly interested in the space where **good software engineering meets good product design**.
+I don't see product design and software development as separate activities.
 
-A technically capable system is not enough.
+The strongest products connect:
 
-The interface should make the system understandable.
-The architecture should make it maintainable.
-The workflow should make it useful.
-And automation should support people rather than obscure how decisions are made.
+**User need → Business process → Product experience → Technology → Outcome**
+
+AI and automation can accelerate the work, but understanding **what should be built and why** remains fundamental.
 
 ---
 
@@ -82,18 +81,16 @@ And automation should support people rather than obscure how decisions are made.
 
 ### <a href="https://adensadigital.com/">Adensa Digital</a>
 
-**Full-Stack Operations Platform**
+**Digital Operations Platform**
 
-A production-oriented software product for operational visibility, exception investigation and recovery workflows.
-
-**Engineering**
+An end-to-end product concept for improving operational visibility, exception management and recovery workflows.
 
 `Next.js` `TypeScript` `Python`
 `FastAPI` `PostgreSQL` `Google Cloud`
 
 **Focus**
 
-Full-stack architecture · APIs · domain logic · data workflows · testing · cloud deployment · human-in-the-loop decision support
+Product design · full-stack development · business workflows · APIs · data · automation · AI-assisted decision support
 
 <br>
 
@@ -105,18 +102,16 @@ Full-stack architecture · APIs · domain logic · data workflows · testing · 
 
 ### <a href="https://logillm-logistics-planning.vercel.app/">LogiLLM</a>
 
-**Frontend & Product Interface**
+**AI Logistics Decision Support**
 
-A modern web application exploring how complex logistics decisions can be presented through a focused operational interface.
-
-**Engineering**
+A web application exploring how AI-assisted logistics decisions can be presented through a focused operational interface.
 
 `Next.js` `React` `TypeScript`
 `Tailwind CSS` `Vercel`
 
 **Focus**
 
-Frontend engineering · UI architecture · responsive design · interaction patterns · operational workflows · product UX
+AI applications · frontend development · product UX · operational workflows · decision support
 
 <br>
 
@@ -124,142 +119,90 @@ Frontend engineering · UI architecture · responsive design · interaction patt
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Adensa Kitchen
+
+**Digital Dining Experience**
+
+A contemporary Ghanaian hospitality concept used to explore product interface design, responsive frontend development and polished digital experiences.
+
+`React` `JavaScript` `Vite`
+`Responsive UI` `Accessibility`
+
+**Focus**
+
+UI/UX · frontend development · interaction design · responsive interfaces · accessibility
+
+</td>
+
+<td width="50%" valign="top">
+
+### Product Design
+
+**From Problem to Interface**
+
+I use product design to translate real workflows into understandable digital experiences.
+
+**Focus**
+
+User flows · information architecture · wireframing · interface design · prototyping · design systems · frontend implementation
+
+</td>
+</tr>
 </table>
 
 ---
 
-## Frontend & UI
-
-I enjoy the part of software engineering where **technology becomes an experience**.
-
-My frontend work focuses on building interfaces that are:
-
-```text
-Clear          → users understand what matters
-Responsive     → layouts adapt naturally across devices
-Structured     → information has a deliberate hierarchy
-Interactive    → actions and feedback feel connected
-Consistent     → components behave like one product
-Purposeful     → visual design supports the workflow
-```
-
-### Frontend stack
-
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-</p>
-
----
-
-## Full-Stack Engineering
-
-I build across the application stack rather than treating the frontend as an isolated layer.
+## Core Capabilities
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td width="25%" align="center">
 
-### UI
+### Product
+
+Problem Solving
+User Workflows
+Product Thinking
+UX / UI
+
+</td>
+
+<td width="25%" align="center">
+
+### Frontend
 
 React
 Next.js
+JavaScript
 TypeScript
-CSS
+Responsive UI
 
 </td>
-<td align="center" width="25%">
+
+<td width="25%" align="center">
 
 ### Backend
 
 Python
 FastAPI
 REST APIs
-Domain Logic
-
-</td>
-<td align="center" width="25%">
-
-### Data
-
 SQL
 PostgreSQL
-SQLite
-Data Workflows
-
-</td>
-<td align="center" width="25%">
-
-### Infrastructure
-
-Git
-Docker
-Google Cloud
-Vercel
-
-</td>
-</tr>
-</table>
-
----
-
-## Engineering Interests
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Product Engineering
-
-Building software around real user workflows rather than isolated technical demonstrations.
-
-**Interested in**
-
-* Product architecture
-* UI systems
-* Component design
-* Responsive applications
-* User workflows
-* Software maintainability
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" align="center">
 
-### Systems Engineering
+### Intelligent Systems
 
-Connecting the parts of an application into a coherent system.
-
-**Interested in**
-
-* REST APIs
-* Backend services
-* Databases
-* Systems integration
-* Domain-driven design
-* Testing & reliability
-
-</td>
-
-<td width="33%" valign="top">
-
-### Intelligent Software
-
-Using automation and AI where they create measurable value.
-
-**Interested in**
-
-* Workflow automation
-* AI applications
-* Decision support
-* Human-in-the-loop systems
-* Agentic workflows
-* Operational intelligence
+Automation
+AI Applications
+Decision Support
+Agentic Workflows
 
 </td>
 </tr>
@@ -267,7 +210,7 @@ Using automation and AI where they create measurable value.
 
 ---
 
-## Technical Toolkit
+## Technology
 
 <p align="center">
 
@@ -277,100 +220,91 @@ Using automation and AI where they create measurable value.
 
 ---
 
-## Experience That Shapes My Engineering
-
-Before moving deeper into software engineering, I worked across **business operations, digital systems and customer-facing technology**.
+## Experience
 
 ### Software Development
 
 **CorkPro Ghana Limited · 2020–2022**
 
-Worked with the software team on the transition from manual sales processes to digital purchasing, developing frontend interfaces and supporting functional, regression, end-to-end and cross-browser testing with Selenium.
+Worked with the software team during the transition from manual sales processes to digital purchasing workflows, contributing to frontend development and functional, regression, end-to-end and cross-browser testing.
 
-### Operational Systems
+### Digital Operations
 
 **Ghana Airports Company Limited · 2022–2023**
 
-Worked with digital complaint-management workflows and operational case systems in a high-volume airport environment.
+Worked with digital complaint-management and operational case workflows in a high-volume airport environment, developing experience with technology-enabled service operations.
 
 ### Business & Data
 
 **University of Ghana · BSc Administration**
 
-Built foundations in business management, quantitative methods, economics and organisational processes.
+Built a foundation in business management, economics, quantitative methods and organisational decision-making.
 
-### Data & Computing
+### Data Analytics
 
 **Ironhack · Data Analytics Bootcamp**
 
-Developed practical experience with Python, SQL, statistics, data analysis and machine learning.
+Applied Python, SQL, statistics, data analysis and machine learning to practical datasets and business problems.
 
-### Current Academic Path
+### Current Academic Work
 
 **TU Darmstadt · MA Data & Discourse Studies**
 
-Combining computational methods, data analysis and language technology with broader research in digital data.
+Developing further experience with data, computational methods and digital systems.
 
 ---
 
-## What I'm Building Toward
-
-My long-term direction is **software engineering with depth across the product and systems stack**.
+## What I Bring
 
 ```text
-                    SOFTWARE ENGINEERING
-                            │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-       FRONTEND          BACKEND          SYSTEMS
-          │                 │                 │
-      UI / UX             APIs          Integration
-      React              Python          Data
-      Next.js            FastAPI         Cloud
-      TypeScript         PostgreSQL      Automation
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            │
-                     INTELLIGENT SOFTWARE
-                            │
-                  AI · Automation · Agents
+Business Understanding
+        ↓
+Problem Solving
+        ↓
+Product Thinking
+        ↓
+UX / Interface Design
+        ↓
+Frontend Development
+        ↓
+Backend & Data
+        ↓
+Automation & AI
+        ↓
+Working Product
 ```
 
-Supply-chain technology is currently an important domain through which I explore these ideas, particularly around **planning, operational visibility, exception management and decision support**.
+My strength is not limited to one layer of a technology stack.
 
-The underlying engineering principles, however, are applicable far beyond supply chain.
-
----
-
-## Currently Learning
-
-<p align="center">
-
-`Software Architecture` · `Cloud Engineering` · `API Design` · `Testing` · `System Integration` · `AI Applications`
-
-</p>
-
-I am particularly interested in becoming better at the engineering decisions behind software:
-
-**How should a system be structured?**
-**How should its components communicate?**
-**How do you make a product reliable as it grows?**
-**How can complex workflows become simple user experiences?**
+I can move between **the problem, the product and the technology**—understanding what needs to be solved, shaping the experience and contributing to the system that delivers it.
 
 ---
 
-## A Few Things I Care About
+## Current Focus
 
-> **Good software should make complexity easier to understand, not simply hide it.**
+I'm currently developing deeper capability across:
 
-I value:
+**Product Design · Frontend Engineering · Full-Stack Development · Digital Transformation · Workflow Automation · AI Applications**
 
-* Clear architecture over unnecessary complexity
-* Strong interfaces over feature overload
-* Reusable systems over one-off solutions
-* Explainable automation over black-box workflows
-* Testing as part of engineering, not an afterthought
-* Product usability alongside technical quality
+My current domain focus is **digital supply chain and operational technology**, particularly around planning, visibility, exception management and decision support.
+
+The underlying skills, however, extend beyond supply chain.
+
+---
+
+## Building With Purpose
+
+> **Good technology should make complex work easier to understand and easier to do.**
+
+I care about:
+
+* Clear interfaces
+* Practical solutions
+* Maintainable systems
+* Useful automation
+* Human-centred AI
+* Strong product decisions
+* Software that solves real problems
 
 ---
 
@@ -396,7 +330,7 @@ I value:
 
 <br><br>
 
-<sub>Software Engineering · Product Development · Systems · AI</sub>
+<sub>Digital Products · Software · Data · Automation · AI</sub>
 
 </div>
 
