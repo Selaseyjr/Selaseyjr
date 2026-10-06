@@ -137,20 +137,6 @@ A contemporary Ghanaian hospitality concept used to explore product interface de
 UI/UX · frontend development · interaction design · responsive interfaces · accessibility
 
 </td>
-
-<td width="50%" valign="top">
-
-### Product Design
-
-**From Problem to Interface**
-
-I use product design to translate real workflows into understandable digital experiences.
-
-**Focus**
-
-User flows · information architecture · wireframing · interface design · prototyping · design systems · frontend implementation
-
-</td>
 </tr>
 </table>
 
@@ -217,40 +203,6 @@ Agentic Workflows
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,python,fastapi,postgres,sqlite,git,docker,gcp,vercel&perline=8" alt="Technology stack">
 
 </p>
-
----
-
-## Experience
-
-### Software Development
-
-**CorkPro Ghana Limited · 2020–2022**
-
-Worked with the software team during the transition from manual sales processes to digital purchasing workflows, contributing to frontend development and functional, regression, end-to-end and cross-browser testing.
-
-### Digital Operations
-
-**Ghana Airports Company Limited · 2022–2023**
-
-Worked with digital complaint-management and operational case workflows in a high-volume airport environment, developing experience with technology-enabled service operations.
-
-### Business & Data
-
-**University of Ghana · BSc Administration**
-
-Built a foundation in business management, economics, quantitative methods and organisational decision-making.
-
-### Data Analytics
-
-**Ironhack · Data Analytics Bootcamp**
-
-Applied Python, SQL, statistics, data analysis and machine learning to practical datasets and business problems.
-
-### Current Academic Work
-
-**TU Darmstadt · MA Data & Discourse Studies**
-
-Developing further experience with data, computational methods and digital systems.
 
 ---
 
