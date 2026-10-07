@@ -19,6 +19,9 @@
   <a href="https://logillm-logistics-planning.vercel.app/">
     <img src="https://img.shields.io/badge/LogiLLM-Live%20App-000000?style=flat-square&logo=vercel&logoColor=white">
   </a>
+  <a href="https://adensa-kitchen.vercel.app/">
+    <img src="https://img.shields.io/badge/Adensa%20Kitchen-Live%20Product-B8860B?style=flat-square&logo=vercel&logoColor=white">
+  </a>
 </p>
 
 <br>
@@ -123,11 +126,11 @@ AI applications · frontend development · product UX · operational workflows �
 <tr>
 <td width="50%" valign="top">
 
-### Adensa Kitchen
+### <a href="https://adensa-kitchen.vercel.app/">Adensa Kitchen</a>
 
 **Digital Dining Experience**
 
-A contemporary Ghanaian hospitality concept used to explore product interface design, responsive frontend development and polished digital experiences.
+A contemporary Ghanaian hospitality concept used to explore product interface design, responsive frontend development and polished digital experiences across desktop and mobile.
 
 `React` `JavaScript` `Vite`
 `Responsive UI` `Accessibility`
@@ -135,6 +138,10 @@ A contemporary Ghanaian hospitality concept used to explore product interface de
 **Focus**
 
 UI/UX · frontend development · interaction design · responsive interfaces · accessibility
+
+<br>
+
+<a href="https://adensa-kitchen.vercel.app/"><strong>Live Product →</strong></a> <a href="https://github.com/Selaseyjr/adensa-kitchen">Repository →</a>
 
 </td>
 </tr>
@@ -273,18 +280,23 @@ I care about:
 <a href="https://logillm-logistics-planning.vercel.app/">
   <img src="https://img.shields.io/badge/Explore%20LogiLLM-111111?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
+&nbsp;
+<a href="https://adensa-kitchen.vercel.app/">
+  <img src="https://img.shields.io/badge/Explore%20Adensa%20Kitchen-B8860B?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/selasey-junior-36250425a/">LinkedIn</a>
   ·   <a href="mailto:selaseygbeddy@gmail.com">Email</a>
-  ·   <a href="https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=sharing">CV</a>
+  ·   <a href="https://drive.google.com/file/d/1fQkb-jNIuNq7j-qHs1DZfPOKj7Ob4qvA/view?usp=sharing">CV</a>
 
 <br><br>
 
 <sub>Digital Products · Software · Data · Automation · AI</sub>
 
 </div>
+
 
 
 
