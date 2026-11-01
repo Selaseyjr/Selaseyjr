@@ -1,62 +1,147 @@
 <div align="center">
 
-[![Typing intro](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1200&color=3178C6&center=true&vCenter=true&width=760&lines=Software+Developer;Frontend+%26+Product+Engineering;Decision-support+tools+for+logistics;JavaScript+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Python)](https://github.com/Selaseyjr)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0E2A52,60:1F4E8C,100:2D6FB8&text=Selasey%20Gbeddy&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Technical%20Product%20Owner%20%26%20Analyst%20%7C%20AI%20%26%20Automation&descSize=17&descAlignY=58" alt="Selasey Gbeddy · Technical Product Owner & Analyst | AI & Automation" width="100%">
 
-**I design and build software that helps people make better decisions.**
+<a href="https://selasey-gbeddy.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1100&color=1F4E8C&center=true&vCenter=true&width=720&lines=I+turn+business+processes+into+shipped+software.;Requirements+%E2%86%92+user+stories+%E2%86%92+tested+release.;Building+with+AI+agents+on+the+team.;Words+alone+don%E2%80%99t+sell%2C+digital+products+do." alt="I turn business processes into shipped software"></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selasey-jr-gbeddy/)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:selaseygbeddy@gmail.com)
-[![CV](https://img.shields.io/badge/CV-Download-3178C6?style=flat-square&logo=readme&logoColor=white)](https://drive.google.com/file/d/1fQkb-jNIuNQ7j-qHs1DZfPOKj7Ob4qvA/view?usp=sharing)
+<p>
+<a href="https://selasey-gbeddy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-selasey--gbeddy.vercel.app-1F4E8C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/selasey-jr-gbeddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://selasey-gbeddy.vercel.app/files/Selasey_Gbeddy_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-0E2A52?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"></a>
+<a href="mailto:selaseygbeddy@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-Darmstadt, Germany · M.A. student, TU Darmstadt · Available from November 2026
+📍 Darmstadt, Germany &nbsp;·&nbsp; 🎓 Master's student, TU Darmstadt (NLP) &nbsp;·&nbsp; 🗣️ English C1 · German B1
+<br>
+<sub><b>Open to working-student roles and internships</b> · on site, hybrid or remote</sub>
 
 </div>
 
 ---
 
-### How I build
-
-A product mindset on top of full-stack engineering: from the first workflow sketch to a deployed, tested interface, designed so the system recommends and the person decides.
+### 🧭 How I work
 
 ```mermaid
 flowchart LR
-    A[User need] --> B[Product and UI]
-    B --> C[Frontend]
-    C --> D[APIs and data]
-    D --> E[Recommendation]
-    E --> F[Human decision]
-    F -. feedback .-> B
+    A["🎧 Listen<br/><sub>customer interviews</sub>"] --> B["📝 Specify<br/><sub>user stories, acceptance criteria</sub>"]
+    B --> C["🤖 Build with AI<br/><sub>agentic coding, LLM agents</sub>"]
+    C --> D["🚀 Ship<br/><sub>tested, deployed, live</sub>"]
+    D -. feedback .-> A
+    style C fill:#1F4E8C,color:#fff,stroke:#1F4E8C
 ```
 
-**Clear · Structured · Explainable · Consistent · Responsive · Purposeful**
+<div align="center">
+
+| 🗣️ **10** | 🧪 **137** | 🌐 **11** | 🤖 **20+** |
+|:--:|:--:|:--:|:--:|
+| customer interviews behind one product spec | automated tests gate every release | pages live on a site I own end to end | roles ranked daily by my AI agent |
+
+</div>
 
 ---
 
-### Selected work
+### 🚀 Selected work
 
-| Project | Focus | Stack |
-|:--|:--|:--|
-| **[Adensa Digital](https://adensadigital.com)**<br>Live · simulated data<br>[Code](https://github.com/Selaseyjr/adensa-digital) | Supply-chain exception management with a human decision gate: detect, recommend, decide, execute, follow up. | `Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Google Cloud` |
-| **[Adensa Kitchen](https://adensa-kitchen.vercel.app)**<br>Concept project | Responsive digital dining experience for a contemporary Ghanaian hospitality concept. | `React` `JavaScript` `Vite` |
-| **[LogiLLM](https://logillm-logistics-planning.vercel.app)**<br>Prototype · simulated data<br>[Code](https://github.com/Selaseyjr/logillm-logistics-planning-prototype) | Logistics decision-support control tower: shipment intake, risk assessment and route options with emissions trade-offs. | `Next.js` `React` `TypeScript` `Tailwind CSS` |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 [adensasupply.com](https://adensasupply.com)
+![Live](https://img.shields.io/badge/status-live-2EA043?style=flat-square) ![Role](https://img.shields.io/badge/role-Digital%20Product%20Lead-1F4E8C?style=flat-square)
+
+Website for **Adensa Supply & Logistics Ltd**, a registered building-materials company in Ghana. Owned end to end, from requirements to release.
+
+- 11-page, mobile-first, accessible site
+- Serverless form API: Turnstile bot protection, origin checks, server-side validation, reference IDs, email confirmations
+- Privacy notice and data-retention rules
+
+`HTML` `CSS` `JavaScript` `Cloudflare Pages` `Workers`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📦 [AdensaOps](https://adensaops.com) · [code](https://github.com/Selaseyjr/adensa-ops)
+![Demo](https://img.shields.io/badge/status-demo-D29922?style=flat-square) ![Tests](https://img.shields.io/badge/tests-95%20unit%20%2B%2042%20e2e-2EA043?style=flat-square)
+
+Operations platform demo: suppliers, CRM, quotes, a six-stage order pipeline, cash ledger and KPI dashboard.
+
+- Specified from 10 customer interviews
+- Business rules in the data model: 14-day price staleness, deposit before order
+- Tests block every failing release
+
+`React 19` `TypeScript` `Tailwind` `Workers + D1`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 AI job-search agent
+![Daily](https://img.shields.io/badge/runs-daily-1F4E8C?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-scoring-8957E5?style=flat-square)
+
+A scheduled agent pipeline: web search, filters for role, location, commute and language, LLM scoring against my CV, and the top 20+ roles delivered to my phone.
+
+`Hermes Agent` `LLM` `cron` `Telegram Bot API`
+
+</td>
+<td width="50%" valign="top">
+
+#### ✨ [Portfolio](https://selasey-gbeddy.vercel.app)
+![Live](https://img.shields.io/badge/status-live-2EA043?style=flat-square) ![EN/DE](https://img.shields.io/badge/lang-EN%20%C2%B7%20DE-1F4E8C?style=flat-square)
+
+Case studies, product-ownership artefacts (user stories, BPMN process map, MoSCoW backlog, release gate) and an "Ask my agent" preview.
+
+`HTML` `CSS` `JavaScript` `Vercel`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Toolkit
+### 🧰 Toolbox
 
-[![Stack](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,python,fastapi,postgres,git,gcp,vercel&perline=13)](https://skillicons.dev)
+<div align="center">
 
-### Now
+**Product** &nbsp;
+![Requirements](https://img.shields.io/badge/Requirements-1F4E8C?style=flat-square)
+![User stories](https://img.shields.io/badge/User%20stories-1F4E8C?style=flat-square)
+![BPMN 2.0](https://img.shields.io/badge/BPMN%202.0-1F4E8C?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
 
-- **Adensa Digital:** reworking the work queue with feedback from two supply-chain operations professionals.
-- **LogiLLM:** next up, CRUD and a real model integration.
+**AI & automation** &nbsp;
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LLM agents](https://img.shields.io/badge/LLM%20agents-8957E5?style=flat-square)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0E2A52?style=flat-square)
 
-<details>
-<summary><b>Background</b></summary>
+**Data** &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![A/B testing](https://img.shields.io/badge/A%2FB%20testing-1F4E8C?style=flat-square)
 
 <br>
 
-Business Administration at the University of Ghana, then software development at CorkPro Ghana (online catalogue, instant quotes and ordering, Selenium testing), IT applications at Ghana Airports Company, an Ironhack data analytics bootcamp, and now an M.A. in Data and Discourse Studies at TU Darmstadt.
+[![Web & cloud](https://skillicons.dev/icons?i=ts,js,react,html,css,tailwind,cloudflare,vercel,git,github&perline=10)](https://skillicons.dev)
+
+</div>
+
+<details>
+<summary><b>🎓 Experience & education</b></summary>
+<br>
+
+| When | |
+|:--|:--|
+| 08/2026 – today | **Digital Product Lead**, Adensa Supply & Logistics Ltd (remote, part-time) |
+| 10/2024 – today | **M.A. Data and Discourse Studies**, TU Darmstadt · NLP, Python, corpus analysis |
+| 01 – 07/2026 | **Data Analytics Bootcamp**, Ironhack · Python, SQL, Tableau, ML, A/B testing |
+| 09/2026 | **The Complete Web Developer Course 3.0**, Udemy |
+| 06/2025 – 01/2026 | **Customer Service Agent**, FRASEC, Frankfurt Airport · mainly in German |
+| 11/2022 – 12/2023 | **IT Applications Support**, Ghana Airports Company Ltd |
+| 2018 – 2022 | **B.Sc. Administration**, University of Ghana |
 
 </details>
 
@@ -64,8 +149,8 @@ Business Administration at the University of Ghana, then software development at
 
 <div align="center">
 
-> *Good software should make complexity easier to understand, not simply hide it.*
+> *Words alone don't sell, digital products do.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0E2A52,60:1F4E8C,100:2D6FB8" width="100%" alt="">
 
 </div>
-
-
