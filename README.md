@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0E2A52,60:1F4E8C,100:2D6FB8&text=Selasey%20Gbeddy&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Technical%20Product%20Owner%20%26%20Analyst%20%7C%20AI%20%26%20Automation&descSize=17&descAlignY=58" alt="Selasey Gbeddy · Technical Product Owner & Analyst | AI & Automation" width="100%">
+<a href="https://selasey-gbeddy.vercel.app"><img src="./assets/header.svg" alt="Selasey Gbeddy · Technical Product Owner & Analyst | AI & Automation" width="100%"></a>
 
 <a href="https://selasey-gbeddy.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1100&color=1F4E8C&center=true&vCenter=true&width=720&lines=I+turn+business+processes+into+shipped+software.;Requirements+%E2%86%92+user+stories+%E2%86%92+tested+release.;Building+with+AI+agents+on+the+team.;Words+alone+don%E2%80%99t+sell%2C+digital+products+do." alt="I turn business processes into shipped software"></a>
 
@@ -151,6 +151,6 @@ Case studies, product-ownership artefacts (user stories, BPMN process map, MoSCo
 
 > *Words alone don't sell, digital products do.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0E2A52,60:1F4E8C,100:2D6FB8" width="100%" alt="">
+<sub>📬 <a href="https://selasey-gbeddy.vercel.app/#contact">Get in touch through my portfolio</a></sub>
 
 </div>
