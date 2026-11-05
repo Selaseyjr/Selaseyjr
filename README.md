@@ -8,13 +8,13 @@
 <a href="https://selasey-gbeddy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-selasey--gbeddy.vercel.app-1F4E8C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/selasey-jr-gbeddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://selasey-gbeddy.vercel.app/files/Selasey_Gbeddy_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-0E2A52?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"></a>
-<a href="https://www.figma.com/design/RWoi6UAbZ8PRmGOdvzmRNe/adensasupply.com-%C2%B7-Product-Design-File?node-id=11-18"><img src="https://img.shields.io/badge/Figma-Design%20work-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+<a href="https://www.figma.com/@selaseyjr"><img src="https://img.shields.io/badge/Figma-Design%20work-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 <a href="mailto:selaseygbeddy@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 📍 Darmstadt, Germany &nbsp;·&nbsp; 🎓 Master's student, TU Darmstadt (NLP) &nbsp;·&nbsp; 🗣️ English C1 · German B1
 <br>
-<sub><b>Open to working-student roles and internships</b> · up to 20 hours a week · on site, hybrid or remote</sub>
+<sub><b>Open to working-student roles and internships</b> · available now · on site, hybrid or remote</sub>
 
 </div>
 
@@ -92,7 +92,7 @@ A scheduled agent pipeline: web search, filters for role, location, commute and 
 #### ✨ [Portfolio](https://selasey-gbeddy.vercel.app)
 ![Live](https://img.shields.io/badge/status-live-2EA043?style=flat-square) ![EN/DE](https://img.shields.io/badge/lang-EN%20%C2%B7%20DE-1F4E8C?style=flat-square)
 
-Minimal developer-style portfolio with a Ghanaian kente accent, business case studies and a prominent "Ask my agent" preview.
+Developer-style portfolio with a kente weave animation, business case studies and an "Ask my agent" command bar.
 
 `HTML` `CSS` `JavaScript` `Vercel`
 
