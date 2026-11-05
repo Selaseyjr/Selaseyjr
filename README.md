@@ -2,18 +2,19 @@
 
 <a href="https://selasey-gbeddy.vercel.app"><img src="./assets/header.svg" alt="Selasey Gbeddy · Technical Product Owner & Analyst | AI & Automation" width="100%"></a>
 
-<a href="https://selasey-gbeddy.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1100&color=1F4E8C&center=true&vCenter=true&width=720&lines=I+turn+business+processes+into+shipped+software.;Requirements+%E2%86%92+user+stories+%E2%86%92+tested+release.;Building+with+AI+agents+on+the+team.;Words+alone+don%E2%80%99t+sell%2C+digital+products+do." alt="I turn business processes into shipped software"></a>
+<a href="https://selasey-gbeddy.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1100&color=1F4E8C&center=true&vCenter=true&width=720&lines=I+turn+how+businesses+really+run+into+working+products" alt="I turn business processes into shipped software"></a>
 
 <p>
 <a href="https://selasey-gbeddy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-selasey--gbeddy.vercel.app-1F4E8C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/selasey-jr-gbeddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://selasey-gbeddy.vercel.app/files/Selasey_Gbeddy_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-0E2A52?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"></a>
+<a href="https://www.figma.com/design/RWoi6UAbZ8PRmGOdvzmRNe/adensasupply.com-%C2%B7-Product-Design-File?node-id=11-18"><img src="https://img.shields.io/badge/Figma-Design%20work-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 <a href="mailto:selaseygbeddy@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 📍 Darmstadt, Germany &nbsp;·&nbsp; 🎓 Master's student, TU Darmstadt (NLP) &nbsp;·&nbsp; 🗣️ English C1 · German B1
 <br>
-<sub><b>Open to working-student roles and internships</b> · on site, hybrid or remote</sub>
+<sub><b>Open to working-student roles and internships</b> · up to 20 hours a week · on site, hybrid or remote</sub>
 
 </div>
 
@@ -32,9 +33,9 @@ flowchart LR
 
 <div align="center">
 
-| 🗣️ **10** | 🧪 **137** | 🌐 **11** | 🤖 **20+** |
+| 🛫 **100s** | 🗣️ **10** | 📐 **92** | 🧪 **137** |
 |:--:|:--:|:--:|:--:|
-| customer interviews behind one product spec | automated tests gate every release | pages live on a site I own end to end | roles ranked daily by my AI agent |
+| passengers helped daily at Frankfurt Airport | customer interviews | product decisions in one blueprint | automated tests per release |
 
 </div>
 
@@ -54,6 +55,8 @@ Website for **Adensa Supply & Logistics Ltd**, a registered building-materials c
 - 11-page, mobile-first, accessible site
 - Serverless form API: Turnstile bot protection, origin checks, server-side validation, reference IDs, email confirmations
 - Privacy notice and data-retention rules
+- Automated checks, preview releases and a user-story backlog
+- [Figma design file](https://www.figma.com/design/RWoi6UAbZ8PRmGOdvzmRNe/adensasupply.com-%C2%B7-Product-Design-File?node-id=11-18)
 
 `HTML` `CSS` `JavaScript` `Cloudflare Pages` `Workers`
 
@@ -89,7 +92,7 @@ A scheduled agent pipeline: web search, filters for role, location, commute and 
 #### ✨ [Portfolio](https://selasey-gbeddy.vercel.app)
 ![Live](https://img.shields.io/badge/status-live-2EA043?style=flat-square) ![EN/DE](https://img.shields.io/badge/lang-EN%20%C2%B7%20DE-1F4E8C?style=flat-square)
 
-Case studies, product-ownership artefacts (user stories, BPMN process map, MoSCoW backlog, release gate) and an "Ask my agent" preview.
+Minimal developer-style portfolio with a Ghanaian kente accent, business case studies and a prominent "Ask my agent" preview.
 
 `HTML` `CSS` `JavaScript` `Vercel`
 
@@ -149,7 +152,7 @@ Case studies, product-ownership artefacts (user stories, BPMN process map, MoSCo
 
 <div align="center">
 
-> *Words alone don't sell, digital products do.*
+> *I turn how businesses really run into working products.*
 
 <sub>📬 <a href="https://selasey-gbeddy.vercel.app/#contact">Get in touch through my portfolio</a></sub>
 
