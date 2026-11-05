@@ -2,7 +2,7 @@
 
 <a href="https://selasey-gbeddy.vercel.app"><img src="./assets/header.svg" alt="Selasey Gbeddy · Technical Product Owner & Analyst | AI & Automation" width="100%"></a>
 
-<a href="https://selasey-gbeddy.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1100&color=1F4E8C&center=true&vCenter=true&width=720&lines=I+turn+how+businesses+really+run+into+working+products" alt="I turn business processes into shipped software"></a>
+<a href="https://selasey-gbeddy.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1100&color=1F4E8C&center=true&vCenter=true&width=720&lines=I+turn+how+businesses+really+run+into+working+products" alt="I turn how businesses really run into working products"></a>
 
 <p>
 <a href="https://selasey-gbeddy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-selasey--gbeddy.vercel.app-1F4E8C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -50,13 +50,13 @@ flowchart LR
 #### 🌐 [adensasupply.com](https://adensasupply.com)
 ![Live](https://img.shields.io/badge/status-live-2EA043?style=flat-square) ![Role](https://img.shields.io/badge/role-Digital%20Product%20Lead-1F4E8C?style=flat-square)
 
-Website for **Adensa Supply & Logistics Ltd**, a registered building-materials company in Ghana. Owned end to end, from requirements to release.
+Website for **Adensa Supply & Logistics Ltd**, a registered building-materials company in Ghana. Led end to end, from requirements to release.
 
 - 11-page, mobile-first, accessible site
 - Serverless form API: Turnstile bot protection, origin checks, server-side validation, reference IDs, email confirmations
 - Privacy notice and data-retention rules
 - Automated checks, preview releases and a user-story backlog
-- [Figma design file](https://www.figma.com/design/RWoi6UAbZ8PRmGOdvzmRNe/adensasupply.com-%C2%B7-Product-Design-File?node-id=11-18)
+- [Case study](https://selasey-gbeddy.vercel.app/#story-website) · [Figma design file](https://www.figma.com/design/RWoi6UAbZ8PRmGOdvzmRNe/adensasupply.com-%C2%B7-Product-Design-File?node-id=11-18)
 
 `HTML` `CSS` `JavaScript` `Cloudflare Pages` `Workers`
 
@@ -92,7 +92,7 @@ A scheduled agent pipeline: web search, filters for role, location, commute and 
 #### ✨ [Portfolio](https://selasey-gbeddy.vercel.app)
 ![Live](https://img.shields.io/badge/status-live-2EA043?style=flat-square) ![EN/DE](https://img.shields.io/badge/lang-EN%20%C2%B7%20DE-1F4E8C?style=flat-square)
 
-Developer-style portfolio with a kente weave animation, business case studies and an "Ask my agent" command bar.
+Hand-coded portfolio in kente colours: a moving weave with bouncing portraits, playful pointer and tap effects, business case studies and an "Ask my agent" command bar.
 
 `HTML` `CSS` `JavaScript` `Vercel`
 
