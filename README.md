@@ -92,7 +92,7 @@ A scheduled agent pipeline: web search, filters for role, location, commute and 
 #### ✨ [Portfolio](https://selasey-gbeddy.vercel.app)
 ![Live](https://img.shields.io/badge/status-live-2EA043?style=flat-square) ![EN/DE](https://img.shields.io/badge/lang-EN%20%C2%B7%20DE-1F4E8C?style=flat-square)
 
-Hand-coded portfolio in kente colours: moving airport photography, playful pointer and tap effects, business case studies and an "Ask my agent" command bar.
+Hand-coded portfolio in warm cream with neon kente accents: moving airport photography, playful pointer and tap effects, business case studies and an "Ask my agent" command bar.
 
 `HTML` `CSS` `JavaScript` `Vercel`
 
