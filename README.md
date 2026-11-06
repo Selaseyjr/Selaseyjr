@@ -63,7 +63,7 @@ Website for **Adensa Supply & Logistics Ltd**, a registered building-materials c
 </td>
 <td width="50%" valign="top">
 
-#### 📦 [AdensaOps](https://adensaops.com) · [code](https://github.com/Selaseyjr/adensa-ops)
+#### 📦 [AdensaOps](https://adensaops.com) · [code](https://github.com/Selaseyjr/adensa-ops) · [Figma](https://www.figma.com/community/file/1700529335374306054)
 ![Demo](https://img.shields.io/badge/status-demo-D29922?style=flat-square) ![Tests](https://img.shields.io/badge/tests-95%20unit%20%2B%2042%20e2e-2EA043?style=flat-square)
 
 Operations platform demo: suppliers, CRM, quotes, a six-stage order pipeline, cash ledger and KPI dashboard.
