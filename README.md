@@ -5,16 +5,10 @@
 <a href="https://selasey-gbeddy.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1100&color=1F4E8C&center=true&vCenter=true&width=720&lines=I+turn+how+businesses+really+run+into+working+products" alt="I turn how businesses really run into working products"></a>
 
 <p>
-<a href="https://selasey-gbeddy.vercel.app"><img src="https://img.shields.io/badge/Portfolio-selasey--gbeddy.vercel.app-1F4E8C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/selasey-jr-gbeddy/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://selasey-gbeddy.vercel.app/files/Selasey_Gbeddy_CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-0E2A52?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"></a>
-<a href="https://www.figma.com/@selaseyjr"><img src="https://img.shields.io/badge/Figma-Design%20work-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
-<a href="mailto:selaseygbeddy@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://selasey-gbeddy.vercel.app"><img src="./assets/icons/portfolio.svg" alt="Portfolio" title="Portfolio" width="44" height="44"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/selasey-jr-gbeddy/"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="44" height="44"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/@selaseyjr"><img src="./assets/icons/figma.svg" alt="Figma" title="Figma" width="44" height="44"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:selaseygbeddy@gmail.com"><img src="./assets/icons/email.svg" alt="Email" title="Email" width="44" height="44"></a>&nbsp;&nbsp;&nbsp;<a href="https://selasey-gbeddy.vercel.app/files/Selasey_Gbeddy_CV.pdf"><img src="./assets/icons/cv.svg" alt="Download CV" title="Download CV" width="44" height="44"></a>
 </p>
 
-📍 Darmstadt, Germany &nbsp;·&nbsp; 🎓 Master's student, TU Darmstadt (NLP) &nbsp;·&nbsp; 🗣️ English C1 · German B1
-<br>
-<sub><b>Open to working-student roles and internships</b> · available now · on site, hybrid or remote</sub>
+<sub>Darmstadt · Open to working-student roles</sub>
 
 </div>
 
