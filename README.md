@@ -2,7 +2,7 @@
 
 <a href="https://selasey-gbeddy.vercel.app"><img src="./assets/header.svg" alt="Selasey Gbeddy · Technical Product Owner & Analyst | AI & Automation" width="100%"></a>
 
-<a href="https://selasey-gbeddy.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1100&color=1F4E8C&center=true&vCenter=true&width=720&lines=I+turn+how+businesses+really+run+into+working+products" alt="I turn how businesses really run into working products"></a>
+<a href="https://selasey-gbeddy.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1100&color=1F4E8C&center=true&vCenter=true&width=720&lines=Business+runs+on+systems.;I+make+them+work.;Real+problems.+Shipped+solutions." alt="I turn how businesses really run into working products"></a>
 
 <p>
 <a href="https://selasey-gbeddy.vercel.app"><img src="./assets/icons/portfolio.svg" alt="Portfolio" title="Portfolio" width="44" height="44"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/selasey-jr-gbeddy/"><img src="./assets/icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="44" height="44"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/@selaseyjr"><img src="./assets/icons/figma.svg" alt="Figma" title="Figma" width="44" height="44"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:selaseygbeddy@gmail.com"><img src="./assets/icons/email.svg" alt="Email" title="Email" width="44" height="44"></a>&nbsp;&nbsp;&nbsp;<a href="https://selasey-gbeddy.vercel.app/files/Selasey_Gbeddy_CV.pdf"><img src="./assets/icons/cv.svg" alt="Download CV" title="Download CV" width="44" height="44"></a>
