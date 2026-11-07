@@ -37,62 +37,14 @@ flowchart LR
 
 ### 🚀 Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🌐 [adensasupply.com](https://adensasupply.com)
-![Live](https://img.shields.io/badge/status-live-2EA043?style=flat-square) ![Role](https://img.shields.io/badge/role-Digital%20Product%20Lead-1F4E8C?style=flat-square)
-
-Website for **Adensa Supply & Logistics Ltd**, a registered building-materials company in Ghana. Led end to end, from requirements to release.
-
-- 11-page, mobile-first, accessible site
-- Serverless form API: Turnstile bot protection, origin checks, server-side validation, reference IDs, email confirmations
-- Privacy notice and data-retention rules
-- Automated checks, preview releases and a user-story backlog
-- [Case study](https://selasey-gbeddy.vercel.app/#story-website) · [Figma design file](https://www.figma.com/design/RWoi6UAbZ8PRmGOdvzmRNe/adensasupply.com-%C2%B7-Product-Design-File?node-id=11-18) · [Design repo](https://github.com/Selaseyjr/adensasupply-product-case-study)
-
-`HTML` `CSS` `JavaScript` `Cloudflare Pages` `Workers`
-
-</td>
-<td width="50%" valign="top">
-
-#### 📦 [AdensaOps](https://adensaops.com) · [code](https://github.com/Selaseyjr/adensa-ops) · [Figma](https://www.figma.com/community/file/1700529335374306054) · [design repo](https://github.com/Selaseyjr/adensaops-product-design)
-![Demo](https://img.shields.io/badge/status-demo-D29922?style=flat-square) ![Tests](https://img.shields.io/badge/tests-95%20unit%20%2B%2042%20e2e-2EA043?style=flat-square)
-
-Operations platform demo: suppliers, CRM, quotes, a six-stage order pipeline, cash ledger and KPI dashboard.
-
-- Specified from 10 customer interviews
-- Business rules in the data model: 14-day price staleness, deposit before order
-- Tests block every failing release
-
-`React 19` `TypeScript` `Tailwind` `Workers + D1`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 AI job-search agent
-![Daily](https://img.shields.io/badge/runs-daily-1F4E8C?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-scoring-8957E5?style=flat-square)
-
-A scheduled agent pipeline: web search, filters for role, location, commute and language, LLM scoring against my CV, and the top 20+ roles delivered to my phone.
-
-`Hermes Agent` `LLM` `cron` `Telegram Bot API`
-
-</td>
-<td width="50%" valign="top">
-
-#### ✨ [Portfolio](https://selasey-gbeddy.vercel.app)
-![Live](https://img.shields.io/badge/status-live-2EA043?style=flat-square) ![EN/DE](https://img.shields.io/badge/lang-EN%20%C2%B7%20DE-1F4E8C?style=flat-square)
-
-Hand-coded portfolio in warm cream with neon kente accents: moving airport photography, playful pointer and tap effects, business case studies and an "Ask my agent" command bar.
-
-`HTML` `CSS` `JavaScript` `Vercel`
-
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://adensasupply.com"><img src="./assets/cards/adensasupply.svg" alt="adensasupply.com: Trust, designed." width="49%"></a>
+<a href="https://github.com/Selaseyjr/adensaops-product-design"><img src="./assets/cards/adensaops.svg" alt="AdensaOps: One screen. The whole operation." width="49%"></a>
+</p>
+<p align="center">
+<a href="https://selasey-gbeddy.vercel.app"><img src="./assets/cards/agent.svg" alt="AI job-search agent: Wakes at 8. Searches. Scores. Delivers." width="49%"></a>
+<a href="https://selasey-gbeddy.vercel.app"><img src="./assets/cards/portfolio.svg" alt="Portfolio: Real problems. Shipped solutions." width="49%"></a>
+</p>
 
 ---
 
