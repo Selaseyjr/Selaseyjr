@@ -38,12 +38,12 @@ flowchart LR
 ### 🚀 Selected work
 
 <p align="center">
-<a href="https://adensasupply.com"><img src="./assets/cards/adensasupply.svg" alt="adensasupply.com: Trust, designed." width="49%"></a>
-<a href="https://github.com/Selaseyjr/adensaops-product-design"><img src="./assets/cards/adensaops.svg" alt="AdensaOps: One screen. The whole operation." width="49%"></a>
+<a href="https://www.figma.com/community/file/1700454939309161993"><img src="./assets/cards/figma-adensasupply.svg" alt="adensasupply.com: Case study and screens." width="49%"></a>
+<a href="https://www.figma.com/community/file/1700529335374306054"><img src="./assets/cards/figma-adensaops.svg" alt="AdensaOps: Case study and screens." width="49%"></a>
 </p>
 <p align="center">
-<a href="https://selasey-gbeddy.vercel.app"><img src="./assets/cards/agent.svg" alt="AI job-search agent: Wakes at 8. Searches. Scores. Delivers." width="49%"></a>
-<a href="https://selasey-gbeddy.vercel.app"><img src="./assets/cards/portfolio.svg" alt="Portfolio: Real problems. Shipped solutions." width="49%"></a>
+<a href="https://adensasupply.com"><img src="./assets/cards/adensasupply.svg" alt="adensasupply.com: Trust, designed." width="49%"></a>
+<a href="https://github.com/Selaseyjr/adensaops-product-design"><img src="./assets/cards/adensaops.svg" alt="AdensaOps: One screen. The whole operation." width="49%"></a>
 </p>
 
 ---
