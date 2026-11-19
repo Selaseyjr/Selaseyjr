@@ -84,7 +84,7 @@ flowchart LR
 
 | When | |
 |:--|:--|
-| 08/2026 – today | **Digital Product Lead**, Adensa Supply & Logistics Ltd (remote, part-time) |
+| 08/2026 – today | **Digital Product Lead**, Adensa Supply & Logistics Ltd (pre-launch, remote, part-time) |
 | 10/2024 – today | **M.A. Data and Discourse Studies**, TU Darmstadt · NLP, Python, corpus analysis |
 | 01 – 07/2026 | **Data Analytics Bootcamp**, Ironhack · Python, SQL, Tableau, ML, A/B testing |
 | 09/2026 | **The Complete Web Developer Course 3.0**, Udemy |
