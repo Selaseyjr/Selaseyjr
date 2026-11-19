@@ -35,7 +35,7 @@ flowchart LR
 
 ---
 
-### ⭐ Flagship: Tagkin
+### ⭐ Most recent project: Tagkin
 
 <p align="center">
 <a href="https://prototype.tagkin.app"><img src="./assets/cards/tagkin-preview.gif" alt="Tagkin: owner and finder experience" width="100%"></a>
@@ -44,6 +44,7 @@ flowchart LR
 **QR tags that help lost things find their way back, privately.** Product owner and analyst work, end to end: problem, research, user journeys, 68 tested screens, business rules, backlog and technical design. Ready for engineering handover, with me staying on as product owner.
 
 <p align="center">
+<a href="https://selasey-gbeddy.vercel.app/#story-tagkin"><b>Case study</b></a> &nbsp;·&nbsp;
 <a href="https://prototype.tagkin.app/media/tagkin-owner-experience.mp4"><b>▶ Owner experience</b></a> &nbsp;·&nbsp;
 <a href="https://prototype.tagkin.app/media/tagkin-finder-experience.mp4"><b>▶ Finder experience</b></a> &nbsp;·&nbsp;
 <a href="https://prototype.tagkin.app"><b>↗ Clickable prototype</b></a> &nbsp;·&nbsp;
@@ -57,12 +58,12 @@ flowchart LR
 ### 🚀 Selected work
 
 <p align="center">
-<a href="https://www.figma.com/community/file/1700454939309161993"><img src="./assets/cards/figma-adensasupply.svg" alt="adensasupply.com: Case study and screens." width="49%"></a>
-<a href="https://www.figma.com/community/file/1700529335374306054"><img src="./assets/cards/figma-adensaops.svg" alt="AdensaOps: Case study and screens." width="49%"></a>
-</p>
-<p align="center">
 <a href="https://adensasupply.com"><img src="./assets/cards/adensasupply.svg" alt="adensasupply.com: Trust, designed." width="49%"></a>
 <a href="https://github.com/Selaseyjr/adensaops-product-design"><img src="./assets/cards/adensaops.svg" alt="AdensaOps: One screen. The whole operation." width="49%"></a>
+</p>
+<p align="center">
+<a href="https://www.figma.com/community/file/1700454939309161993"><img src="./assets/cards/figma-adensasupply.svg" alt="adensasupply.com: Case study and screens." width="49%"></a>
+<a href="https://www.figma.com/community/file/1700529335374306054"><img src="./assets/cards/figma-adensaops.svg" alt="AdensaOps: Case study and screens." width="49%"></a>
 </p>
 
 ---
