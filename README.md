@@ -47,6 +47,7 @@ flowchart LR
 <a href="https://prototype.tagkin.app/media/tagkin-owner-experience.mp4"><b>▶ Owner experience</b></a> &nbsp;·&nbsp;
 <a href="https://prototype.tagkin.app/media/tagkin-finder-experience.mp4"><b>▶ Finder experience</b></a> &nbsp;·&nbsp;
 <a href="https://prototype.tagkin.app"><b>↗ Clickable prototype</b></a> &nbsp;·&nbsp;
+<a href="https://www.figma.com/community/file/1705237136336735109/tagkin-qr-lost-and-found-app-design"><b>Figma</b></a> &nbsp;·&nbsp;
 <a href="https://github.com/Selaseyjr/tagkin"><b>Repository</b></a> &nbsp;·&nbsp;
 <a href="https://github.com/users/Selaseyjr/projects/2"><b>Project board</b></a>
 </p>
