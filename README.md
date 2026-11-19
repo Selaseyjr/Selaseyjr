@@ -35,6 +35,24 @@ flowchart LR
 
 ---
 
+### ⭐ Flagship: Tagkin
+
+<p align="center">
+<a href="https://prototype.tagkin.app"><img src="./assets/cards/tagkin-preview.gif" alt="Tagkin: owner and finder experience" width="100%"></a>
+</p>
+
+**QR tags that help lost things find their way back, privately.** Product owner and analyst work, end to end: problem, research, user journeys, 68 tested screens, business rules, backlog and technical design. Ready for engineering handover, with me staying on as product owner.
+
+<p align="center">
+<a href="https://prototype.tagkin.app/media/tagkin-owner-experience.mp4"><b>▶ Owner experience</b></a> &nbsp;·&nbsp;
+<a href="https://prototype.tagkin.app/media/tagkin-finder-experience.mp4"><b>▶ Finder experience</b></a> &nbsp;·&nbsp;
+<a href="https://prototype.tagkin.app"><b>↗ Clickable prototype</b></a> &nbsp;·&nbsp;
+<a href="https://github.com/Selaseyjr/tagkin"><b>Repository</b></a> &nbsp;·&nbsp;
+<a href="https://github.com/users/Selaseyjr/projects/2"><b>Project board</b></a>
+</p>
+
+---
+
 ### 🚀 Selected work
 
 <p align="center">
