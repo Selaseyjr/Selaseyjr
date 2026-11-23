@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://selasey-gbeddy.vercel.app"><img src="./assets/header.svg" alt="Selasey Gbeddy · Technical Product Owner & Analyst | AI & Automation" width="100%"></a>
+<a href="https://selasey-gbeddy.vercel.app"><img src="./assets/header.svg" alt="Selasey Gbeddy · AI Product & Automation Analyst | Digital Product Management" width="100%"></a>
 
 <a href="https://selasey-gbeddy.vercel.app"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1100&color=1F4E8C&center=true&vCenter=true&width=720&lines=Business+runs+on+systems.;I+make+them+work.;Real+problems.+Shipped+solutions." alt="Business runs on systems. I make them work."></a>
 
